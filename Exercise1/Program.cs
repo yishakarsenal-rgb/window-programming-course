@@ -11,7 +11,7 @@ namespace Exercise1Application
             string greeting = "Hello";
             int numberOfClients = 100;
             // int 2pac = 6; // not correct
-            // int new;      // Invalid: 'new' is a C# reserved keyword
+            // int new;      // not correct
 
             Console.WriteLine("--- Valid Identifiers Output ---");
             Console.WriteLine("Class: {0}", Class);
