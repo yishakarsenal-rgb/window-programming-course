@@ -18,7 +18,6 @@ namespace Exercise1Application
             Console.WriteLine("_2pac: {0}", _2pac);
             Console.WriteLine("greeting: {0}", greeting);
             Console.WriteLine("numberOfClients: {0}", numberOfClients);
-
             Console.ReadKey();
         }
     }
