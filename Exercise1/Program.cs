@@ -10,8 +10,6 @@ namespace Exercise1Application
             int _2pac = 0;
             string greeting = "Hello";
             int numberOfClients = 100;
-
-            // Invalid Identifiers (commented out so the program builds without errors):
             // int 2pac = 6; // Invalid: Cannot start with a number
             // int new;      // Invalid: 'new' is a C# reserved keyword
 
