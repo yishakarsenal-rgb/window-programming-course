@@ -6,7 +6,6 @@ namespace Exercise1Application
     {
         static void Main(string[] args)
         {
-            // Valid Identifiers from Exercise 1
             int Class = 2;
             int _2pac = 0;
             string greeting = "Hello";
