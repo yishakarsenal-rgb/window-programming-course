@@ -6,7 +6,6 @@ namespace Exercise2Application
     {
         static void Main(string[] args)
         {
-            // Declaring appropriate variables using C# data types from Slide 15-17
             string firstName = "Abebe";
             string lastName = "Kebede";
             byte age = 28;                  // byte (0 to 255) or int is appropriate for age
