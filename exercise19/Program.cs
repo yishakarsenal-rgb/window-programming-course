@@ -21,8 +21,8 @@ namespace Exercise19Application
 
         static void Main(string[] args)
         {
-            Console.WriteLine("NumberOfEvenDigits(7201432) -> {0}", NumberOfEvenDigits(7201432));
-            Console.WriteLine("NumberOfEvenDigits(97511)   -> {0}", NumberOfEvenDigits(97511));
+            Console.WriteLine("7201432 = {0}", NumberOfEvenDigits(7201432));
+            Console.WriteLine("97511 = {0}", NumberOfEvenDigits(97511));
 
             Console.ReadKey();
         }
