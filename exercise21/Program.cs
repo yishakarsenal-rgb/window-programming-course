@@ -14,8 +14,8 @@ namespace Exercise21Application
             int[] arr1 = { 3, 7, 10 };
             int[] arr2 = { 74, 62, 99 };
 
-            Console.WriteLine("[3, 7, 10] = {0}", IfSortedAscending(arr1));
-            Console.WriteLine("[74, 62, 99] = {0}", IfSortedAscending(arr2));
+            Console.WriteLine("3, 7, 10 = {0}", IfSortedAscending(arr1));
+            Console.WriteLine("74, 62, 99 = {0}", IfSortedAscending(arr2));
 
             Console.ReadKey();
         }
