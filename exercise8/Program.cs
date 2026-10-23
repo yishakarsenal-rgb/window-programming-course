@@ -12,11 +12,10 @@ namespace Exercise8Application
             {
                 sum += i;
             }
-            Console.WriteLine("--- Part 1: Sum of numbers from 1 to 10 ---");
-            Console.WriteLine("Sum = {0}", sum);
+            Console.WriteLine("sum of numbers from 1 to 10");
+            Console.WriteLine(sum);
 
             // Part 2
-            Console.WriteLine("\n--- Part 2: Left-Aligned Triangle of Stars ---");
             int rows = 5;
             for (int i = 1; i <= rows; i++)
             {
