@@ -8,7 +8,7 @@ namespace Exercise6Application
         {
             int num = 5;
 
-            Console.WriteLine(" not fixed code ");
+            Console.WriteLine(" not fixed code :-");
             if (num < 10)
                 Console.WriteLine("number is less than 10");
             else
@@ -17,7 +17,7 @@ namespace Exercise6Application
                 else
                     Console.WriteLine("number is equal to or greater than 5");
 
-            Console.WriteLine("\n fixed code i use {} and proper condition order) ");
+            Console.WriteLine("\n fixed code i use {} and proper condition order):- ");
             if (num < 5)
             {
                 Console.WriteLine("number is less than 5");
