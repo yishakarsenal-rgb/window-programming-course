@@ -6,9 +6,7 @@ namespace Exercise3Application
     {
         static void Main(string[] args)
         {
-            // Part 1: Values of expressions (Slide 34)
-            Console.WriteLine("--- Part 1: Expression Values ---");
-            Console.WriteLine("10 / 3 = {0}       (Integer division truncates decimal)", 10 / 3);
+            Console.WriteLine(10 / 3);
             Console.WriteLine("5.2 / 2.0 = {0}  (Floating-point division)", 5.2 / 2.0);
             Console.WriteLine("9 % 3 = {0}        (Remainder of 9 divided by 3)", 9 % 3);
 
