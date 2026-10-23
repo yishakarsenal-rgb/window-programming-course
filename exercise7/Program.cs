@@ -6,12 +6,11 @@ namespace Exercise7Application
     {
         static void Main(string[] args)
         {
-            // Part 1: Add all numbers from x to y
-            Console.WriteLine("--- Part 1: Sum of numbers from x to y ---");
-            Console.Write("Enter starting number (x): ");
+            // part1 sum of numbers from x to y
+            Console.Write("enter starting number (x): ");
             int x = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Enter ending number (y): ");
+            Console.Write("enter ending number (y): ");
             int y = Convert.ToInt32(Console.ReadLine());
 
             int sum = 0;
