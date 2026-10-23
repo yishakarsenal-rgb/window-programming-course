@@ -14,8 +14,7 @@ namespace Exercise25Application
         {
             int[] myNumbers = { 12, 3, 5, 10 };
 
-            Console.WriteLine("secondLargestElement([12, 3, 5, 10]) -> {0}", secondLargestElement(myNumbers));
-
+            Console.WriteLine("second largest from 12, 3, 5, 10 = {0}", secondLargestElement(myNumbers));
             Console.ReadKey();
         }
     }
