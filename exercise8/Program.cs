@@ -6,7 +6,7 @@ namespace Exercise8Application
     {
         static void Main(string[] args)
         {
-            // Part 1: Sum of integers between 1 and 10
+            // part 1
             int sum = 0;
             for (int i = 1; i <= 10; i++)
             {
@@ -15,7 +15,7 @@ namespace Exercise8Application
             Console.WriteLine("sum of numbers from 1 to 10");
             Console.WriteLine(sum);
 
-            // Part 2
+            // part 2
             int rows = 5;
             for (int i = 1; i <= rows; i++)
             {
