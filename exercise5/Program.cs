@@ -12,37 +12,37 @@ namespace Exercise5Application
             switch (digit)
             {
                 case 0:
-                    Console.WriteLine("0 --- Zero");
+                    Console.WriteLine("0 = Zero");
                     break;
                 case 1:
-                    Console.WriteLine("1 --- One");
+                    Console.WriteLine("1 = One");
                     break;
                 case 2:
-                    Console.WriteLine("2 --- Two");
+                    Console.WriteLine("2 = Two");
                     break;
                 case 3:
-                    Console.WriteLine("3 --- Three");
+                    Console.WriteLine("3 = Three");
                     break;
                 case 4:
-                    Console.WriteLine("4 --- Four");
+                    Console.WriteLine("4 = Four");
                     break;
                 case 5:
-                    Console.WriteLine("5 --- Five");
+                    Console.WriteLine("5 = Five");
                     break;
                 case 6:
-                    Console.WriteLine("6 --- Six");
+                    Console.WriteLine("6 = Six");
                     break;
                 case 7:
-                    Console.WriteLine("7 --- Seven");
+                    Console.WriteLine("7 = Seven");
                     break;
                 case 8:
-                    Console.WriteLine("8 --- Eight");
+                    Console.WriteLine("8 = Eight");
                     break;
                 case 9:
-                    Console.WriteLine("9 --- Nine");
+                    Console.WriteLine("9 = Nine");
                     break;
                 default:
-                    Console.WriteLine("Invalid input! Please enter a single digit between 0 and 9.");
+                    Console.WriteLine("invalid please enter digit between 0 and 9.");
                     break;
             }
 
