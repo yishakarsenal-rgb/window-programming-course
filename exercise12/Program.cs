@@ -6,7 +6,7 @@ namespace Exercise12Application
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a positive integer N (N < 20): ");
+            Console.Write("enter a positive integer N (N < 20): ");
             int n = int.Parse(Console.ReadLine());
 
             if (n > 0 && n < 20)
@@ -22,7 +22,7 @@ namespace Exercise12Application
             }
             else
             {
-                Console.WriteLine("Please enter a number between 1 and 19.");
+                Console.WriteLine("please enter number between 1 and 19.");
             }
 
             Console.ReadKey();
