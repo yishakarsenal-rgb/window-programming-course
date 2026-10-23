@@ -6,28 +6,28 @@ namespace Exercise4Application
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter numeric grade: ");
+            Console.Write("enter grade = ");
             double grade = Convert.ToDouble(Console.ReadLine());
 
             if (grade >= 90 && grade < 101)
             {
-                Console.WriteLine("Letter Grade: A");
+                Console.WriteLine("grade= A");
             }
             else if (grade >= 80 && grade < 90)
             {
-                Console.WriteLine("Letter Grade: B");
+                Console.WriteLine("grade= B");
             }
             else if (grade >= 70 && grade < 80)
             {
-                Console.WriteLine("Letter Grade: C");
+                Console.WriteLine("grade= C");
             }
             else if (grade >= 60 && grade < 70)
             {
-                Console.WriteLine("Letter Grade: D");
+                Console.WriteLine("grade= D");
             }
             else
             {
-                Console.WriteLine("Letter Grade: F");
+                Console.WriteLine("grade= F");
             }
 
             Console.ReadKey();
