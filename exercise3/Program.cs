@@ -7,8 +7,8 @@ namespace Exercise3Application
         static void Main(string[] args)
         {
             Console.WriteLine(10 / 3);
-            Console.WriteLine("5.2 / 2.0 = {0}  (Floating-point division)", 5.2 / 2.0);
-            Console.WriteLine("9 % 3 = {0}        (Remainder of 9 divided by 3)", 9 % 3);
+            Console.WriteLine(5.2 / 2.0);
+            Console.WriteLine(9 % 3);
 
             // Part 2: Order of evaluation and result of X = 2 * 5 / 3 + 3 * 5 + 7
             // Precedence rule (Slide 30-31): * and / have higher precedence than + and =,
