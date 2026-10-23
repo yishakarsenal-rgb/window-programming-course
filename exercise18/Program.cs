@@ -17,8 +17,8 @@ namespace Exercise18Application
                 firstDigit /= 10;
             }
 
-            Console.WriteLine("The first digit is: {0}", firstDigit);
-            Console.WriteLine("The last digit is: {0}", lastDigit);
+            Console.WriteLine("first digit is = {0}", firstDigit);
+            Console.WriteLine("last digit is = {0}", lastDigit);
 
             Console.ReadKey();
         }
