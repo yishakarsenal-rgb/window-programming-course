@@ -20,17 +20,14 @@ namespace Exercise7Application
             }
             Console.WriteLine("Sum of numbers from {0} to {1} is: {2}", x, y, sum);
 
-            // Part 2: Right-aligned perpendicular isosceles triangle of stars
-            Console.WriteLine("\n--- Part 2: Right-Aligned Triangle of Stars ---");
+            // part2
             int rows = 5;
             for (int i = 1; i <= rows; i++)
             {
-                // Print leading spaces
                 for (int s = 1; s <= rows - i; s++)
                 {
                     Console.Write("  ");
                 }
-                // Print stars
                 for (int j = 1; j <= i; j++)
                 {
                     Console.Write("* ");
