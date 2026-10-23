@@ -14,18 +14,18 @@ namespace Exercise9Application
             }
 
             // loop 2
-            Console.WriteLine("\nloop 2 Fixed (changed i=i+1 to i=i-1 so it counts down 10 to 1):");
+            Console.WriteLine("loop 2");
             for (int i = 10; i >= 1; i = i - 1)
             {
-                Console.WriteLine("How many times do I print? (i = {0})", i);
+                Console.WriteLine("How many times do I print? ", i);
             }
 
-            // loop 3: Originally infinite because i was not incremented inside while loop. Fixed by adding i++:
-            Console.WriteLine("\nloop 3 Fixed (added i++ inside the while loop):");
+            // loop 3
+            Console.WriteLine(" loop 3 ");
             int j = 1;
-            while (j < 5) // Reduced to 5 for clean display
+            while (j < 20) 
             {
-                Console.WriteLine("How many times do I print? (j = {0})", j);
+                Console.WriteLine("How many times do I print? ", j);
                 j++;
             }
 
