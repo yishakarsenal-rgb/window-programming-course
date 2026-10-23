@@ -8,27 +8,27 @@ namespace Exercise6Application
         {
             int num = 5;
 
-            Console.WriteLine("--- Original Code Output ---");
+            Console.WriteLine("--- not fixed code ---");
             if (num < 10)
-                Console.WriteLine("Number is less than 10");
+                Console.WriteLine("number is less than 10");
             else
                 if (num < 5)
-                    Console.WriteLine("Number is less than 5");
+                    Console.WriteLine("number is less than 5");
                 else
-                    Console.WriteLine("Number is equal to or greater than 5");
+                    Console.WriteLine("number is equal to or greater than 5");
 
-            Console.WriteLine("\n--- Fixed Code (Using Curly Braces {} and Proper Condition Order) ---");
+            Console.WriteLine("\n--- fixed code i use {} and proper condition order) ---");
             if (num < 5)
             {
-                Console.WriteLine("Number is less than 5");
+                Console.WriteLine("number is less than 5");
             }
             else if (num < 10)
             {
-                Console.WriteLine("Number is equal to or greater than 5 and less than 10");
+                Console.WriteLine("number is equal to or greater than 5 and less than 10");
             }
             else
             {
-                Console.WriteLine("Number is 10 or greater");
+                Console.WriteLine("number is 10 or greater");
             }
 
             Console.ReadKey();
