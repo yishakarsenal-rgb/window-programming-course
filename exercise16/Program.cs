@@ -19,8 +19,8 @@ namespace Exercise16Application
 
         static void Main(string[] args)
         {
-            Console.WriteLine("IfNumberContains3(7201432) -> {0}", IfNumberContains3(7201432));
-            Console.WriteLine("IfNumberContains3(87501)   -> {0}", IfNumberContains3(87501));
+            Console.WriteLine("7201432 = {0}", IfNumberContains3(7201432));
+            Console.WriteLine("87501 = {0}", IfNumberContains3(87501));
 
             Console.ReadKey();
         }
