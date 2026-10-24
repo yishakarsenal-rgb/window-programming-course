@@ -21,16 +21,16 @@ namespace Exercise29Application
 
         static void Main(string[] args)
         {
-            Console.Write("Enter a word or phrase to check if it is a palindrome: ");
+            Console.Write("enter word = ");
             string input = Console.ReadLine();
 
             if (IsPalindrome(input))
             {
-                Console.WriteLine("\"{0}\" is a Palindrome.", input);
+                Console.WriteLine("\"{0}\" is a palindrome.", input);
             }
             else
             {
-                Console.WriteLine("\"{0}\" is NOT a Palindrome.", input);
+                Console.WriteLine("\"{0}\" is not a palindrome.", input);
             }
 
             Console.ReadKey();
