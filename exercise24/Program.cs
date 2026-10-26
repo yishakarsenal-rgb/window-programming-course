@@ -23,7 +23,7 @@ namespace Exercise24Application
                 }
             }
 
-            Console.WriteLine("12, 56, 8, 97, 14, 10, 3, 5");
+            Console.WriteLine("From 12, 56, 8, 97, 14, 10, 3, 5");
             Console.WriteLine("num of even integers = {0}", evenCount);
             Console.WriteLine("num of odd integers =  {0}", oddCount);
 
