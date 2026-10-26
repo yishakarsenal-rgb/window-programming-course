@@ -6,7 +6,7 @@ namespace Exercise23Application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("enter elements in the array (separated by space)=");
+            Console.WriteLine("enter elements in the array separated by space=");
             string input = Console.ReadLine();
             string[] parts = input.Split(' ');
 
