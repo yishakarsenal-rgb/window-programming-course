@@ -21,7 +21,7 @@ namespace Exercise28Application
                 }
             }
 
-            Console.WriteLine("enter with first letter uppercase= {0}", result.Trim());
+            Console.WriteLine("all first letters uppercase= {0}", result.Trim());
 
             Console.ReadKey();
         }
