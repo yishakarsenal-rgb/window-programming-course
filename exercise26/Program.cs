@@ -25,7 +25,7 @@ namespace Exercise26Application
                 wordCount = 0;
             }
 
-            Console.WriteLine("total number of words in the string is = {0}", wordCount);
+            Console.WriteLine("total number of words in the string = {0}", wordCount);
 
             Console.ReadKey();
         }
