@@ -9,7 +9,7 @@ namespace Exercise27Application
             Console.Write("enter string = ");
             string str = Console.ReadLine();
 
-            Console.Write("characters of the string in reverse are = ");
+            Console.Write("characters in reverse = ");
             for (int i = str.Length - 1; i >= 0; i--)
             {
                 Console.Write("{0} ", str[i]);
