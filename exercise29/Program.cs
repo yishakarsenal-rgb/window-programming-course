@@ -6,8 +6,6 @@ namespace Exercise29Application
     {
         static bool IsPalindrome(string str)
         {
-            // Remove spaces and convert to lowercase using Replace and ToLower (Slides 78 & 84)
-            // so phrases like "nurses run" also work properly
             string cleanStr = str.Replace(" ", "").ToLower();
 
             string reversedStr = "";
@@ -26,11 +24,11 @@ namespace Exercise29Application
 
             if (IsPalindrome(input))
             {
-                Console.WriteLine("\"{0}\" is a palindrome.", input);
+                Console.WriteLine("\"{0}\" is palindrome.", input);
             }
             else
             {
-                Console.WriteLine("\"{0}\" is not a palindrome.", input);
+                Console.WriteLine("\"{0}\" is not palindrome.", input);
             }
 
             Console.ReadKey();
