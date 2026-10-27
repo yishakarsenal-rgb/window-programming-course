@@ -20,7 +20,7 @@
 
 ##  Table of Contents
 - [ About The Repository](#-about-the-repository)
-- [✨ Core Concepts Covered](#-core-concepts-covered)
+- [ Core Concepts Covered](#-core-concepts-covered)
 - [📂 Exercise Directory (1–29)](#-exercise-directory-129)
   - [Part 1: Syntax, Data Types & Operators](#part-1-syntax-data-types--operators)
   - [Part 2: Control Flow & Conditional Statements](#part-2-control-flow--conditional-statements)
