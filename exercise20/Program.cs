@@ -18,7 +18,7 @@ namespace Exercise20Application
                 num /= 10;
             }
 
-            Console.WriteLine("The product of digits of {0} is: {1}", originalNum, product);
+            Console.WriteLine("the product of  {0} is: {1}", originalNum, product);
 
             Console.ReadKey();
         }
