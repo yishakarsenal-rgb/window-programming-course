@@ -19,7 +19,7 @@
 ---
 
 ##  Table of Contents
-- [📖 About The Repository](#-about-the-repository)
+- [ About The Repository](#-about-the-repository)
 - [✨ Core Concepts Covered](#-core-concepts-covered)
 - [📂 Exercise Directory (1–29)](#-exercise-directory-129)
   - [Part 1: Syntax, Data Types & Operators](#part-1-syntax-data-types--operators)
