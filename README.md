@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Windows Programming Course
+#  Windows Programming Course
 ### Chapter 2: C# Fundamentals — Complete Exercise Solutions
 
 [![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
