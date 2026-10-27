@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 - [📖 About The Repository](#-about-the-repository)
 - [✨ Core Concepts Covered](#-core-concepts-covered)
 - [📂 Exercise Directory (1–29)](#-exercise-directory-129)
