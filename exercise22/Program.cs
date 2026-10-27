@@ -31,7 +31,7 @@ namespace Exercise22Application
 
         static void Main(string[] args)
         {
-            Console.WriteLine("enter elements in the array (separated by space)=");
+            Console.WriteLine("enter elements in the array separated by space=");
             string input = Console.ReadLine();
             string[] parts = input.Split(' ');
 
@@ -41,7 +41,7 @@ namespace Exercise22Application
                 arr[i] = int.Parse(parts[i]);
             }
 
-            Console.WriteLine("\noutput:");
+            Console.WriteLine("\noutput=");
             CountFrequency(arr);
 
             Console.ReadKey();
