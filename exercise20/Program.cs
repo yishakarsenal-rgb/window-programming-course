@@ -6,7 +6,7 @@ namespace Exercise20Application
     {
         static void Main(string[] args)
         {
-            Console.Write("Input a number: ");
+            Console.Write("enter number: ");
             int num = int.Parse(Console.ReadLine());
 
             int originalNum = num;
