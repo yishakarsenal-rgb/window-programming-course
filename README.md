@@ -34,7 +34,7 @@
 
 ---
 
-## 📖 About The Repository
+##  About The Repository
 
 This repository serves as the official coursework submission for **Chapter 2 (C# Fundamentals)** of the **Windows Programming** course. Every exercise from the lecture slides has been implemented, tested, and organized into its own individual `.cs` source file (`Exercise1.cs` through `Exercise29.cs`) for straightforward code review and grading.
 
