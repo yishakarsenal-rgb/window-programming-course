@@ -40,7 +40,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 
 ---
 
-## ✨ Core Concepts Covered
+##  Core Concepts Covered
 
 * **Program Structure & OOP Basics:** Namespaces, classes, objects, member variables, methods, and entry points (`Main`).
 * **Type System & Memory:** Value types vs. reference types, implicit/explicit casting, `Convert` methods, and identifier rules.
