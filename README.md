@@ -28,7 +28,7 @@
   - [Part 4: Arrays & Data Collections](#part-4-arrays--data-collections)
   - [Part 5: String Manipulation & Formatting](#part-5-string-manipulation--formatting)
 - [ Prerequisites](#-prerequisites)
-- [🚀 Getting Started](#-getting-started)
+- [Getting Started](#-getting-started)
 - [▶️ How to Run the Exercises](#️-how-to-run-the-exercises)
 - [👤 Author](#-author)
 
