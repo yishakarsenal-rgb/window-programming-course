@@ -29,7 +29,7 @@
   - [Part 5: String Manipulation & Formatting](#part-5-string-manipulation--formatting)
 - [ Prerequisites](#-prerequisites)
 - [Getting Started](#-getting-started)
-- [▶️ How to Run the Exercises](#️-how-to-run-the-exercises)
+- [How to Run the Exercises](#️-how-to-run-the-exercises)
 - [👤 Author](#-author)
 
 ---
