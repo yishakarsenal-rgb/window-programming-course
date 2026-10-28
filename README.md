@@ -27,7 +27,7 @@
   - [Part 3: Loops, Patterns & Mathematical Methods](#part-3-loops-patterns--mathematical-methods)
   - [Part 4: Arrays & Data Collections](#part-4-arrays--data-collections)
   - [Part 5: String Manipulation & Formatting](#part-5-string-manipulation--formatting)
-- [🛠️ Prerequisites](#-prerequisites)
+- [ Prerequisites](#-prerequisites)
 - [🚀 Getting Started](#-getting-started)
 - [▶️ How to Run the Exercises](#️-how-to-run-the-exercises)
 - [👤 Author](#-author)
