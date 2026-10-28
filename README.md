@@ -30,7 +30,7 @@
 - [ Prerequisites](#-prerequisites)
 - [Getting Started](#-getting-started)
 - [How to Run the Exercises](#️-how-to-run-the-exercises)
-- [👤 Author](#-author)
+- [Author](#-author)
 
 ---
 
