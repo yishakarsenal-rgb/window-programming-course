@@ -60,7 +60,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 | :--- | :--- | :---: | :--- |
 |  `Exercise1.cs` | **Exercise 1** | 22 | Identify valid and invalid C# variable identifiers (`Class`, `_2pac`, `2pac`, `new`, etc.) |
 |  `Exercise2.cs` | **Exercise 2** | 23 | Declare appropriate data types and attributes for a marketing company's employee record |
-| 📄 `Exercise3.cs` | **Exercise 3** | 34–35 | Evaluate integer/float division, modulus, operator precedence, and OOP `Addition` class |
+|  `Exercise3.cs` | **Exercise 3** | 34–35 | Evaluate integer/float division, modulus, operator precedence, and OOP `Addition` class |
 
 ### Part 2: Control Flow & Conditional Statements
 | File | Exercise | Slide | Problem Description |
