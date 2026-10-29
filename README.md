@@ -53,7 +53,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 
 ---
 
-## 📂 Exercise Directory (1–29)
+##  Exercise Directory (1–29)
 
 ### Part 1: Syntax, Data Types & Operators
 | File | Exercise | Slide | Problem Description |
