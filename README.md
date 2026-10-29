@@ -66,7 +66,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 | File | Exercise | Slide | Problem Description |
 | :--- | :--- | :---: | :--- |
 |  `Exercise4.cs` | **Exercise 4** | 40 | Convert a numeric score into a letter grade (`A`, `B`, `C`, `D`, `F`) |
-| 📄 `Exercise5.cs` | **Exercise 5** | 41 | Convert an input digit (`0–9`) into its English word equivalent using `switch` |
+|  `Exercise5.cs` | **Exercise 5** | 41 | Convert an input digit (`0–9`) into its English word equivalent using `switch` |
 | 📄 `Exercise6.cs` | **Exercise 6** | 42 | Trace and fix the **Dangling Else** problem using explicit block scoping |
 
 ### Part 3: Loops, Patterns & Mathematical Methods
