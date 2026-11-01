@@ -43,7 +43,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 ##  Core Concepts Covered
 
 * **Program Structure & OOP Basics:** Namespaces, classes, objects, member variables, methods, and entry points (Main).
-* **Type System & Memory:** Value types vs. reference types, implicit/explicit casting, `Convert` methods, and identifier rules.
+* **Type System & Memory:** Value types vs. reference types, implicit/explicit casting, Convert methods, and identifier rules.
 * **Operators & Expressions:** Arithmetic operations, operator precedence, and associativity.
 * **Decision Making:** Conditional branching (`if-else`), `switch-case` blocks, and resolving the dangling-else problem.
 * **Iteration & Loops:** `for`, `while`, `do-while`, and `foreach` loops, nested loop matrices, and infinite loop debugging.
