@@ -49,7 +49,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 * **Iteration & Loops:** for, while, do-while, and foreach loops, nested loop matrices, and infinite loop debugging.
 * **Modular Programming:** Static methods, parameter passing, and mathematical digit extraction without string helpers.
 * **Arrays:** Single-dimensional array traversal, sorting, frequency counting, and min/max algorithms.
-* **Strings:** Character indexing, `Split()`, `Substring()`, `Replace()`, `Trim()`, word counting, title-casing, and palindrome verification.
+* **Strings:** Character indexing, Split(), Substring(), Replace(), Trim(), word counting, title-casing, and palindrome verification.
 
 ---
 
