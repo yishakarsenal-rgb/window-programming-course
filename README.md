@@ -46,7 +46,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 * **Type System & Memory:** Value types vs. reference types, implicit/explicit casting, Convert methods, and identifier rules.
 * **Operators & Expressions:** Arithmetic operations, operator precedence, and associativity.
 * **Decision Making:** Conditional branching (if-else), switch-case blocks, and resolving the dangling-else problem.
-* **Iteration & Loops:** `for`, `while`, `do-while`, and `foreach` loops, nested loop matrices, and infinite loop debugging.
+* **Iteration & Loops:** for, while, do-while, and foreach loops, nested loop matrices, and infinite loop debugging.
 * **Modular Programming:** Static methods, parameter passing, and mathematical digit extraction without string helpers.
 * **Arrays:** Single-dimensional array traversal, sorting, frequency counting, and min/max algorithms.
 * **Strings:** Character indexing, `Split()`, `Substring()`, `Replace()`, `Trim()`, word counting, title-casing, and palindrome verification.
