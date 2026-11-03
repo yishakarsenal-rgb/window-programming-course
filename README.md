@@ -76,7 +76,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 |  `Exercise8.cs` | **Exercise 8** | 47 | Calculate the sum of integers from `1` to `10` and print a left-aligned star triangle |
 |  `Exercise9.cs` | **Exercise 9** | 48 | Analyze unexecuted/infinite "bad loops" and demonstrate corrected loop conditions |
 |  `Exercise10.cs` | **Exercise 10** | 49 | Identify and fix the `while (start != num)` infinite loop bug for odd inputs |
-| 📄 `Exercise11.cs` | **Exercise 11** | 50 | Generate a triangular multiplication table (`i * 1` up to `i * i`) for `N` lines |
+|  `Exercise11.cs` | **Exercise 11** | 50 | Generate a triangular multiplication table (`i * 1` up to `i * i`) for `N` lines |
 | 📄 `Exercise12.cs` | **Exercise 12** | 51 | Read positive integer `N (N < 20)` and output a shifted `N x N` number matrix |
 | 📄 `Exercise13.cs` | **Exercise 13** | 52 | `DivisibleBy2Or3(a, b)` — return product if both are divisible by 2 or 3, otherwise sum |
 | 📄 `Exercise14.cs` | **Exercise 14** | 53 | `IfYearIsLeap(year)` — determine whether a given year is a leap year |
