@@ -80,7 +80,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 |  `Exercise12.cs` | **Exercise 12** | 51 | Read positive integer `N (N < 20)` and output a shifted `N x N` number matrix |
 |  `Exercise13.cs` | **Exercise 13** | 52 | `DivisibleBy2Or3(a, b)` — return product if both are divisible by 2 or 3, otherwise sum |
 |  `Exercise14.cs` | **Exercise 14** | 53 | `IfYearIsLeap(year)` — determine whether a given year is a leap year |
-| 📄 `Exercise15.cs` | **Exercise 15** | 54 | `ReturnEvenNumbers()` — return a space-separated string of even numbers `(0 < n < 100)` |
+|  `Exercise15.cs` | **Exercise 15** | 54 | `ReturnEvenNumbers()` — return a space-separated string of even numbers `(0 < n < 100)` |
 | 📄 `Exercise16.cs` | **Exercise 16** | 55 | `IfNumberContains3(n)` — check if an integer contains digit `3` without type conversion |
 | 📄 `Exercise17.cs` | **Exercise 17** | 56 | `DigitsSum(n)` — compute the sum of all digits in a non-negative integer |
 | 📄 `Exercise18.cs` | **Exercise 18** | 57 | Extract and display the first and last digit of any positive integer |
