@@ -84,7 +84,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 |  `Exercise16.cs` | **Exercise 16** | 55 | `IfNumberContains3(n)` — check if an integer contains digit `3` without type conversion |
 | `Exercise17.cs` | **Exercise 17** | 56 | `DigitsSum(n)` — compute the sum of all digits in a non-negative integer |
 | `Exercise18.cs` | **Exercise 18** | 57 | Extract and display the first and last digit of any positive integer |
-| 📄 `Exercise19.cs` | **Exercise 19** | 58 | `NumberOfEvenDigits(n)` — count even digits mathematically using modulo/division |
+| `Exercise19.cs` | **Exercise 19** | 58 | `NumberOfEvenDigits(n)` — count even digits mathematically using modulo/division |
 | 📄 `Exercise20.cs` | **Exercise 20** | 59 | Calculate the product of all digits of an input number |
 
 ### Part 4: Arrays & Data Collections
