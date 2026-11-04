@@ -93,7 +93,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 | `Exercise21.cs` | **Exercise 21** | 73 | `IfSortedAscending(arr)` — check if a 3-element integer array is sorted in ascending order |
 |  `Exercise22.cs` | **Exercise 22** | 74 | Count and display the occurrence frequency of each element in an array |
 |  `Exercise23.cs` | **Exercise 23** | 75 | Find the maximum and minimum values stored in an integer array |
-| 📄 `Exercise24.cs` | **Exercise 24** | 76 | Count the total number of even and odd integers in an array |
+|  `Exercise24.cs` | **Exercise 24** | 76 | Count the total number of even and odd integers in an array |
 | 📄 `Exercise25.cs` | **Exercise 25** | 77 | `secondLargestElement(arr)` — find the second largest integer in an array |
 
 ### Part 5: String Manipulation & Formatting
