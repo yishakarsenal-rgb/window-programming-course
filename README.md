@@ -106,7 +106,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 To compile and run these programs locally, ensure you have one of the following installed:
 * **[Microsoft Visual Studio 2022+](https://visualstudio.microsoft.com/)** (with the *.NET Desktop Development* workload)
