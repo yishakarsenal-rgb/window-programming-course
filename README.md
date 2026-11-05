@@ -102,7 +102,7 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 |  `Exercise26.cs` | **Exercise 26** | 90 | Count total words in a string by checking spaces, tabs (`\t`), and newlines (`\n`) |
 |  `Exercise27.cs` | **Exercise 27** | 91 | Print individual characters of an input string in reverse order |
 |  `Exercise28.cs` | **Exercise 28** | 92 | Capitalize the first letter of every word in an arbitrary user string |
-| 📄 `Exercise29.cs` | **Exercise 29** | 93 | Check whether a word or phrase (e.g., `"madam"`, `"nurses run"`) is a palindrome |
+|  `Exercise29.cs` | **Exercise 29** | 93 | Check whether a word or phrase (e.g., `"madam"`, `"nurses run"`) is a palindrome |
 
 ---
 
