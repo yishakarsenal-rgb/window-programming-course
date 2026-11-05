@@ -114,7 +114,7 @@ To compile and run these programs locally, ensure you have one of the following 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Clone this repository to your local machine using Git:
 
