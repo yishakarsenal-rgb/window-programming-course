@@ -23,18 +23,14 @@ namespace Chapter3_Exercise5
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the first number: ");
+            Console.Write("enter first number= ");
             int n1 = Convert.ToInt32(Console.ReadLine());
-
-            Console.Write("Enter the second number: ");
+            Console.Write("enter second number= ");
             int n2 = Convert.ToInt32(Console.ReadLine());
-
-            Console.Write("Enter the third number: ");
+            Console.Write("enter third number= ");
             int n3 = Convert.ToInt32(Console.ReadLine());
-
             Program5 obj = new Program5(n1, n2, n3);
             Console.WriteLine(obj.checkIfPossible());
-
             Console.ReadKey();
         }
     }
