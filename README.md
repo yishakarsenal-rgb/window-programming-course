@@ -72,41 +72,41 @@ This repository serves as the official coursework submission for **Chapter 2 (C#
 ### Part 3: Loops, Patterns & Mathematical Methods
 | File | Exercise | Slide | Problem Description |
 | :--- | :--- | :---: | :--- |
-| 📄 `Exercise7.cs` | **Exercise 7** | 46 | Calculate the sum of numbers from `x` to `y` and print a right-aligned star triangle |
-| 📄 `Exercise8.cs` | **Exercise 8** | 47 | Calculate the sum of integers from `1` to `10` and print a left-aligned star triangle |
-| 📄 `Exercise9.cs` | **Exercise 9** | 48 | Analyze unexecuted/infinite "bad loops" and demonstrate corrected loop conditions |
-| 📄 `Exercise10.cs` | **Exercise 10** | 49 | Identify and fix the `while (start != num)` infinite loop bug for odd inputs |
-| 📄 `Exercise11.cs` | **Exercise 11** | 50 | Generate a triangular multiplication table (`i * 1` up to `i * i`) for `N` lines |
-| 📄 `Exercise12.cs` | **Exercise 12** | 51 | Read positive integer `N (N < 20)` and output a shifted `N x N` number matrix |
-| 📄 `Exercise13.cs` | **Exercise 13** | 52 | `DivisibleBy2Or3(a, b)` — return product if both are divisible by 2 or 3, otherwise sum |
-| 📄 `Exercise14.cs` | **Exercise 14** | 53 | `IfYearIsLeap(year)` — determine whether a given year is a leap year |
-| 📄 `Exercise15.cs` | **Exercise 15** | 54 | `ReturnEvenNumbers()` — return a space-separated string of even numbers `(0 < n < 100)` |
-| 📄 `Exercise16.cs` | **Exercise 16** | 55 | `IfNumberContains3(n)` — check if an integer contains digit `3` without type conversion |
-| 📄 `Exercise17.cs` | **Exercise 17** | 56 | `DigitsSum(n)` — compute the sum of all digits in a non-negative integer |
-| 📄 `Exercise18.cs` | **Exercise 18** | 57 | Extract and display the first and last digit of any positive integer |
-| 📄 `Exercise19.cs` | **Exercise 19** | 58 | `NumberOfEvenDigits(n)` — count even digits mathematically using modulo/division |
-| 📄 `Exercise20.cs` | **Exercise 20** | 59 | Calculate the product of all digits of an input number |
+|  `Exercise7.cs` | **Exercise 7** | 46 | Calculate the sum of numbers from `x` to `y` and print a right-aligned star triangle |
+|  `Exercise8.cs` | **Exercise 8** | 47 | Calculate the sum of integers from `1` to `10` and print a left-aligned star triangle |
+|  `Exercise9.cs` | **Exercise 9** | 48 | Analyze unexecuted/infinite "bad loops" and demonstrate corrected loop conditions |
+|  `Exercise10.cs` | **Exercise 10** | 49 | Identify and fix the `while (start != num)` infinite loop bug for odd inputs |
+|  `Exercise11.cs` | **Exercise 11** | 50 | Generate a triangular multiplication table (`i * 1` up to `i * i`) for `N` lines |
+|  `Exercise12.cs` | **Exercise 12** | 51 | Read positive integer `N (N < 20)` and output a shifted `N x N` number matrix |
+|  `Exercise13.cs` | **Exercise 13** | 52 | `DivisibleBy2Or3(a, b)` — return product if both are divisible by 2 or 3, otherwise sum |
+|  `Exercise14.cs` | **Exercise 14** | 53 | `IfYearIsLeap(year)` — determine whether a given year is a leap year |
+|  `Exercise15.cs` | **Exercise 15** | 54 | `ReturnEvenNumbers()` — return a space-separated string of even numbers `(0 < n < 100)` |
+|  `Exercise16.cs` | **Exercise 16** | 55 | `IfNumberContains3(n)` — check if an integer contains digit `3` without type conversion |
+| `Exercise17.cs` | **Exercise 17** | 56 | `DigitsSum(n)` — compute the sum of all digits in a non-negative integer |
+| `Exercise18.cs` | **Exercise 18** | 57 | Extract and display the first and last digit of any positive integer |
+| `Exercise19.cs` | **Exercise 19** | 58 | `NumberOfEvenDigits(n)` — count even digits mathematically using modulo/division |
+|  `Exercise20.cs` | **Exercise 20** | 59 | Calculate the product of all digits of an input number |
 
 ### Part 4: Arrays & Data Collections
 | File | Exercise | Slide | Problem Description |
 | :--- | :--- | :---: | :--- |
-| 📄 `Exercise21.cs` | **Exercise 21** | 73 | `IfSortedAscending(arr)` — check if a 3-element integer array is sorted in ascending order |
-| 📄 `Exercise22.cs` | **Exercise 22** | 74 | Count and display the occurrence frequency of each element in an array |
-| 📄 `Exercise23.cs` | **Exercise 23** | 75 | Find the maximum and minimum values stored in an integer array |
-| 📄 `Exercise24.cs` | **Exercise 24** | 76 | Count the total number of even and odd integers in an array |
-| 📄 `Exercise25.cs` | **Exercise 25** | 77 | `secondLargestElement(arr)` — find the second largest integer in an array |
+| `Exercise21.cs` | **Exercise 21** | 73 | `IfSortedAscending(arr)` — check if a 3-element integer array is sorted in ascending order |
+|  `Exercise22.cs` | **Exercise 22** | 74 | Count and display the occurrence frequency of each element in an array |
+|  `Exercise23.cs` | **Exercise 23** | 75 | Find the maximum and minimum values stored in an integer array |
+|  `Exercise24.cs` | **Exercise 24** | 76 | Count the total number of even and odd integers in an array |
+|  `Exercise25.cs` | **Exercise 25** | 77 | `secondLargestElement(arr)` — find the second largest integer in an array |
 
 ### Part 5: String Manipulation & Formatting
 | File | Exercise | Slide | Problem Description |
 | :--- | :--- | :---: | :--- |
-| 📄 `Exercise26.cs` | **Exercise 26** | 90 | Count total words in a string by checking spaces, tabs (`\t`), and newlines (`\n`) |
-| 📄 `Exercise27.cs` | **Exercise 27** | 91 | Print individual characters of an input string in reverse order |
-| 📄 `Exercise28.cs` | **Exercise 28** | 92 | Capitalize the first letter of every word in an arbitrary user string |
-| 📄 `Exercise29.cs` | **Exercise 29** | 93 | Check whether a word or phrase (e.g., `"madam"`, `"nurses run"`) is a palindrome |
+|  `Exercise26.cs` | **Exercise 26** | 90 | Count total words in a string by checking spaces, tabs (`\t`), and newlines (`\n`) |
+|  `Exercise27.cs` | **Exercise 27** | 91 | Print individual characters of an input string in reverse order |
+|  `Exercise28.cs` | **Exercise 28** | 92 | Capitalize the first letter of every word in an arbitrary user string |
+|  `Exercise29.cs` | **Exercise 29** | 93 | Check whether a word or phrase (e.g., `"madam"`, `"nurses run"`) is a palindrome |
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 To compile and run these programs locally, ensure you have one of the following installed:
 * **[Microsoft Visual Studio 2022+](https://visualstudio.microsoft.com/)** (with the *.NET Desktop Development* workload)
@@ -114,7 +114,7 @@ To compile and run these programs locally, ensure you have one of the following 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Clone this repository to your local machine using Git:
 
