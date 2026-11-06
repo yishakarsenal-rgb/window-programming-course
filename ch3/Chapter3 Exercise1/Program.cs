@@ -19,15 +19,14 @@ namespace Chapter3_Exercise1
             Console.WriteLine("I am a house, my area is {0} m2", area);
         }
     }
-
     class TestClass
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the length of the house: ");
+            Console.Write("enter length= ");
             double l = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Enter the width of the house: ");
+            Console.Write("enter width= ");
             double w = Convert.ToDouble(Console.ReadLine());
 
             House myHouse = new House(l, w);
