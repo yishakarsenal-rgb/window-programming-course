@@ -39,17 +39,12 @@ namespace Chapter3_Exercise7
         {
             Program7 rect = new Program7();
 
-            Console.Write("Enter the length of the rectangle: ");
+            Console.Write("enter length= ");
             rect.setLength(Convert.ToDouble(Console.ReadLine()));
 
-            Console.Write("Enter the width of the rectangle: ");
+            Console.Write("enter width= ");
             rect.setWidth(Convert.ToDouble(Console.ReadLine()));
-
-            Console.WriteLine("******************************");
-            Console.WriteLine("The length of the rectangle is: {0}", rect.getLength());
-            Console.WriteLine("The width of the rectangle is: {0}", rect.getWidth());
-            Console.WriteLine("The area of the rectangle is: {0}", rect.caculateArea());
-
+            Console.WriteLine("area of the rectangle= {0}", rect.caculateArea());
             Console.ReadKey();
         }
     }
