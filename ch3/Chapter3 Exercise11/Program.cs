@@ -73,7 +73,7 @@ namespace Chapter3_Exercise11
             Console.WriteLine("student info");
             Console.WriteLine("name= {0} {1}, mark= {2}", st.First_name, st.Last_name, st.Mark);
             Worker wk = new Worker("hana", "Alemu", 250, 8);
-            Console.WriteLine("\nworker info ---");
+            Console.WriteLine("\nworker info");
             Console.WriteLine("name= {0} {1}", wk.First_name, wk.Last_name);
             Console.WriteLine("wage= {0}, hours= {1}", wk.Wage, wk.Hours);
             Console.WriteLine("calculated pay (wage * hours)= {0}", wk.CalculateTotalPay());
