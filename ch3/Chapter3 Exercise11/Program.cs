@@ -83,17 +83,15 @@ namespace Chapter3_Exercise11
     {
         static void Main(string[] args)
         {
-            Student st = new Student("Dawit", "Tadesse", 92);
+            Student st = new Student("dawit", "tadesse", 92);
             Console.WriteLine("student info");
             Console.WriteLine("name= {0} {1}, mark= {2}", st.First_name, st.Last_name, st.Mark);
-
             Worker wk = new Worker("hana", "Alemu", 250, 8);
-            Console.WriteLine("\n--- Worker Info ---");
+            Console.WriteLine("\nworker info ---");
             Console.WriteLine("name= {0} {1}", wk.First_name, wk.Last_name);
             Console.WriteLine("wage= {0}, hours= {1}", wk.Wage, wk.Hours);
             Console.WriteLine("calculated pay (wage * hours)= {0}", wk.CalculateTotalPay());
             Console.WriteLine("hourly rate (wage / hours)=    {0:F2}", wk.CalculateHourlyWage());
-
             Console.ReadKey();
         }
     }
