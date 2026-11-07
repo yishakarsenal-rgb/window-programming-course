@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Chapter3_Exercise12
 {
     class Member
@@ -15,14 +14,13 @@ namespace Chapter3_Exercise12
             Console.WriteLine("Salary:         {0:C}", Salary);
         }
     }
-
     class Employee : Member
     {
         public string specialization;
 
         public void DisplayEmployee()
         {
-            Console.WriteLine("--- Employee Details ---");
+            Console.WriteLine("Employee Details");
             Console.WriteLine("Name:           {0}", Name);
             Console.WriteLine("Age:            {0}", Age);
             Console.WriteLine("Phone Number:   {0}", PhoneNumber);
@@ -31,7 +29,6 @@ namespace Chapter3_Exercise12
             PrintSalary();
         }
     }
-
     class Manager : Member
     {
         public string department;
@@ -47,7 +44,6 @@ namespace Chapter3_Exercise12
             PrintSalary();
         }
     }
-
     class Program
     {
         static void Main(string[] args)
@@ -59,7 +55,6 @@ namespace Chapter3_Exercise12
             emp.Address = "Bole, Addis Ababa";
             emp.Salary = 25000.00;
             emp.specialization = "Backend Development";
-
             Manager mgr = new Manager();
             mgr.Name = "Selamawit Bekele";
             mgr.Age = 34;
@@ -67,10 +62,8 @@ namespace Chapter3_Exercise12
             mgr.Address = "Kazanchis, Addis Ababa";
             mgr.Salary = 45000.00;
             mgr.department = "IT & Engineering";
-
             emp.DisplayEmployee();
             mgr.DisplayManager();
-
             Console.ReadKey();
         }
     }
