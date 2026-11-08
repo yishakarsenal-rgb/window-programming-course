@@ -130,7 +130,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
 | `Ch3_Exercise13.cs` | Exercise 13 | Slide 110 | Abstract class `Shape` (`CalculateSurface()`) implemented by `Rectangle`, `Triangle`, and `Circle`[cite: 7]. |
-| `Ch3_Exercise14.cs` | Exercise 14 | Slide 111 | Abstract class `BankAccount` (`deposit()`, `withdraw()`) inherited and implemented by `SavingsAccount`[cite: 7]. |
+| `Ch3_Exercise14.cs` | Exercise 14 | Slide 111 | Abstract class `BankAccount` (`deposit()`, `withdraw()`) inherited and implemented by `SavingsAccount`. |
 | `Ch3_Exercise15.cs` | Exercise 15 | Slide 112 | Abstract class `Employee` (`calculateSalary()`, `displayInfo()`) extended by `Manager` (bonus) and `Programmer` (overtime). |
 | `Ch3_Exercise16.cs` | Exercise 16 | Slide 113 | Abstract class `Marks` (`getPercentage()`) inherited by class `A` (3 subjects) and class `B` (4 subjects). |
 
