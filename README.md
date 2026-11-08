@@ -1,162 +1,148 @@
-<div align="center">
-
-#  Windows Programming Course
-### Chapter 2: C# Fundamentals 
+# 💻 Windows Programming Course — C# Fundamentals & OOP
 
 [![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Framework](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Status](https://img.shields.io/badge/Exercises-29%2F29%20Completed-success?style=for-the-badge)]()
+[![Framework](https://img.shields.io/badge/.NET-Console_App-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![IDE](https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Author](https://img.shields.io/badge/Author-Yishak_Mekuannent-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yishakarsenal-rgb)
 
-<p align="center">
-  A comprehensive collection of <b>29 standalone C# console applications</b> covering core language syntax, object-oriented fundamentals, control structures, algorithmic loops, arrays, and string manipulation.
-</p>
-
-[Explore Exercises](#-exercise-directory-129) • [Getting Started](#-getting-started) • [How to Run](#-how-to-run-the-exercises) • [Author](#-author)
-
-</div>
+> **Course:** Windows Programming (COSC-4021)  
+> **Author:** Yishak Mekuannent ([@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb))  
+> **Repository:** [window-programming-course](https://github.com/yishakarsenal-rgb/window-programming-course)
 
 ---
 
-##  Table of Contents
-- [ About The Repository](#-about-the-repository)
-- [ Core Concepts Covered](#-core-concepts-covered)
-- [ Exercise Directory (1–29)](#-exercise-directory-129)
-  - [Part 1: Syntax, Data Types & Operators](#part-1-syntax-data-types--operators)
-  - [Part 2: Control Flow & Conditional Statements](#part-2-control-flow--conditional-statements)
-  - [Part 3: Loops, Patterns & Mathematical Methods](#part-3-loops-patterns--mathematical-methods)
-  - [Part 4: Arrays & Data Collections](#part-4-arrays--data-collections)
-  - [Part 5: String Manipulation & Formatting](#part-5-string-manipulation--formatting)
-- [ Prerequisites](#-prerequisites)
-- [Getting Started](#-getting-started)
-- [How to Run the Exercises](#️-how-to-run-the-exercises)
-- [Author](#-author)
+## 📑 Table of Contents
+
+- [📖 Overview](#-overview)
+- [📘 Chapter 2: C# Fundamentals (Exercises 1–29)](#-chapter-2-c-fundamentals-exercises-129)
+  - [1. Syntax, Variables & Operators](#1-syntax-variables--operators)
+  - [2. Control Flow & Loops](#2-control-flow--loops)
+  - [3. Methods & Number Manipulation](#3-methods--number-manipulation)
+  - [4. Arrays](#4-arrays)
+  - [5. Strings](#5-strings)
+- [📙 Chapter 3: Object-Oriented Programming (Exercises 1–16)](#-chapter-3-object-oriented-programming-exercises-116)
+  - [1. Classes, Objects & Constructors](#1-classes-objects--constructors)
+  - [2. Encapsulation, Properties & Static Members](#2-encapsulation-properties--static-members)
+  - [3. Inheritance & Constructor Chaining](#3-inheritance--constructor-chaining)
+  - [4. Polymorphism & Abstract Classes](#4-polymorphism--abstract-classes)
+- [🚀 Getting Started & How to Run](#-getting-started--how-to-run)
+- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
 
 ---
 
-##  About The Repository
+## 📖 Overview
 
-This repository serves as the official coursework submission for **Chapter 2 (C# Fundamentals)** of the **Windows Programming** course. Every exercise from the lecture slides has been implemented, tested, and organized into its own individual .cs source file (Exercise1.cs through Exercise29.cs) for straightforward code review and grading.
-
----
-
-##  Core Concepts Covered
-
-* **Program Structure & OOP Basics:** Namespaces, classes, objects, member variables, methods, and entry points (Main).
-* **Type System & Memory:** Value types vs. reference types, implicit/explicit casting, Convert methods, and identifier rules.
-* **Operators & Expressions:** Arithmetic operations, operator precedence, and associativity.
-* **Decision Making:** Conditional branching (if-else), switch-case blocks, and resolving the dangling-else problem.
-* **Iteration & Loops:** for, while, do-while, and foreach loops, nested loop matrices, and infinite loop debugging.
-* **Modular Programming:** Static methods, parameter passing, and mathematical digit extraction without string helpers.
-* **Arrays:** Single-dimensional array traversal, sorting, frequency counting, and min/max algorithms.
-* **Strings:** Character indexing, Split(), Substring(), Replace(), Trim(), word counting, title-casing, and palindrome verification.
+This repository contains **45 standalone C# exercises** covering the core curriculum of **Windows Programming**:
+* **Chapter 2: C# Fundamentals** — **29 exercises** covering variables, data types, operators, conditional statements, loops, methods, arrays, and string processing[cite: 1].
+* **Chapter 3: Object-Oriented Programming (OOP)** — **16 exercises** covering classes, objects, constructors, destructors, C# properties, indexers, static members, inheritance, polymorphism, and abstract classes[cite: 7].
 
 ---
 
-##  Exercise Directory (1–29)
+## 📘 Chapter 2: C# Fundamentals (Exercises 1–29)
 
-### Part 1: Syntax, Data Types & Operators
-| File | Exercise | Slide | Problem Description |
-| :--- | :--- | :---: | :--- |
-|  `Exercise1.cs` | **Exercise 1** | 22 | Identify valid and invalid C# variable identifiers (`Class`, `_2pac`, `2pac`, `new`, etc.) |
-|  `Exercise2.cs` | **Exercise 2** | 23 | Declare appropriate data types and attributes for a marketing company's employee record |
-|  `Exercise3.cs` | **Exercise 3** | 34–35 | Evaluate integer/float division, modulus, operator precedence, and OOP `Addition` class |
+### 1. Syntax, Variables & Operators
 
-### Part 2: Control Flow & Conditional Statements
-| File | Exercise | Slide | Problem Description |
-| :--- | :--- | :---: | :--- |
-|  `Exercise4.cs` | **Exercise 4** | 40 | Convert a numeric score into a letter grade (`A`, `B`, `C`, `D`, `F`) |
-|  `Exercise5.cs` | **Exercise 5** | 41 | Convert an input digit (`0–9`) into its English word equivalent using `switch` |
-|  `Exercise6.cs` | **Exercise 6** | 42 | Trace and fix the **Dangling Else** problem using explicit block scoping |
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Exercise1.cs` | Exercise 1 | Slide 22 | Identify valid and invalid C# variable identifiers (`Class`, `_2pac`, `greeting`, `numberOfClients` vs. `2pac`, `new`)[cite: 1]. |
+| `Exercise2.cs` | Exercise 2 | Slide 23 | Declare appropriate variables and data types for a marketing company's employee record[cite: 1]. |
+| `Exercise3.cs` | Exercise 3 | Slide 34–35 | Evaluate arithmetic expressions (`10/3`, `5.2/2.0`, `9%3`), operator precedence, and a two-number addition class[cite: 1]. |
 
-### Part 3: Loops, Patterns & Mathematical Methods
-| File | Exercise | Slide | Problem Description |
-| :--- | :--- | :---: | :--- |
-|  `Exercise7.cs` | **Exercise 7** | 46 | Calculate the sum of numbers from `x` to `y` and print a right-aligned star triangle |
-|  `Exercise8.cs` | **Exercise 8** | 47 | Calculate the sum of integers from `1` to `10` and print a left-aligned star triangle |
-|  `Exercise9.cs` | **Exercise 9** | 48 | Analyze unexecuted/infinite "bad loops" and demonstrate corrected loop conditions |
-|  `Exercise10.cs` | **Exercise 10** | 49 | Identify and fix the `while (start != num)` infinite loop bug for odd inputs |
-|  `Exercise11.cs` | **Exercise 11** | 50 | Generate a triangular multiplication table (`i * 1` up to `i * i`) for `N` lines |
-|  `Exercise12.cs` | **Exercise 12** | 51 | Read positive integer `N (N < 20)` and output a shifted `N x N` number matrix |
-|  `Exercise13.cs` | **Exercise 13** | 52 | `DivisibleBy2Or3(a, b)` — return product if both are divisible by 2 or 3, otherwise sum |
-|  `Exercise14.cs` | **Exercise 14** | 53 | `IfYearIsLeap(year)` — determine whether a given year is a leap year |
-|  `Exercise15.cs` | **Exercise 15** | 54 | `ReturnEvenNumbers()` — return a space-separated string of even numbers `(0 < n < 100)` |
-|  `Exercise16.cs` | **Exercise 16** | 55 | `IfNumberContains3(n)` — check if an integer contains digit `3` without type conversion |
-| `Exercise17.cs` | **Exercise 17** | 56 | `DigitsSum(n)` — compute the sum of all digits in a non-negative integer |
-| `Exercise18.cs` | **Exercise 18** | 57 | Extract and display the first and last digit of any positive integer |
-| `Exercise19.cs` | **Exercise 19** | 58 | `NumberOfEvenDigits(n)` — count even digits mathematically using modulo/division |
-|  `Exercise20.cs` | **Exercise 20** | 59 | Calculate the product of all digits of an input number |
+### 2. Control Flow & Loops
 
-### Part 4: Arrays & Data Collections
-| File | Exercise | Slide | Problem Description |
-| :--- | :--- | :---: | :--- |
-| `Exercise21.cs` | **Exercise 21** | 73 | `IfSortedAscending(arr)` — check if a 3-element integer array is sorted in ascending order |
-|  `Exercise22.cs` | **Exercise 22** | 74 | Count and display the occurrence frequency of each element in an array |
-|  `Exercise23.cs` | **Exercise 23** | 75 | Find the maximum and minimum values stored in an integer array |
-|  `Exercise24.cs` | **Exercise 24** | 76 | Count the total number of even and odd integers in an array |
-|  `Exercise25.cs` | **Exercise 25** | 77 | `secondLargestElement(arr)` — find the second largest integer in an array |
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Exercise4.cs` | Exercise 4 | Slide 40 | Convert a numeric grade into a letter grade (`A`, `B`, `C`, `D`, `F`) using `if-else` ranges[cite: 1]. |
+| `Exercise5.cs` | Exercise 5 | Slide 41 | Convert a single digit (`0–9`) into its English word using a `switch` statement[cite: 1]. |
+| `Exercise6.cs` | Exercise 6 | Slide 42 | Demonstrate and fix the **Dangling Else** problem using explicit block scoping `{}`[cite: 1]. |
+| `Exercise7.cs` | Exercise 7 | Slide 46 | Calculate the sum of numbers from `x` to `y` and print a right-aligned star triangle[cite: 1]. |
+| `Exercise8.cs` | Exercise 8 | Slide 47 | Calculate the sum of integers from `1` to `10` and print a left-aligned star triangle[cite: 1]. |
+| `Exercise9.cs` | Exercise 9 | Slide 48 | Analyze faulty/infinite loop conditions and demonstrate corrected loop structures[cite: 1]. |
+| `Exercise10.cs` | Exercise 10 | Slide 49 | Fix the `while (start != num)` infinite loop bug when odd numbers are entered[cite: 1]. |
+| `Exercise11.cs` | Exercise 11 | Slide 50 | Generate a triangular multiplication table (`i * 1` through `i * i`) for `N` lines[cite: 1]. |
+| `Exercise12.cs` | Exercise 12 | Slide 51 | Read a positive integer `N (N < 20)` and print a shifted `N x N` number matrix[cite: 1]. |
 
-### Part 5: String Manipulation & Formatting
-| File | Exercise | Slide | Problem Description |
-| :--- | :--- | :---: | :--- |
-|  `Exercise26.cs` | **Exercise 26** | 90 | Count total words in a string by checking spaces, tabs (`\t`), and newlines (`\n`) |
-|  `Exercise27.cs` | **Exercise 27** | 91 | Print individual characters of an input string in reverse order |
-|  `Exercise28.cs` | **Exercise 28** | 92 | Capitalize the first letter of every word in an arbitrary user string |
-|  `Exercise29.cs` | **Exercise 29** | 93 | Check whether a word or phrase (e.g., `"madam"`, `"nurses run"`) is a palindrome |
+### 3. Methods & Number Manipulation
 
----
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Exercise13.cs` | Exercise 13 | Slide 52 | `DivisibleBy2Or3(a, b)` — Return `a * b` if both are divisible by 2 or 3; otherwise return `a + b`[cite: 1]. |
+| `Exercise14.cs` | Exercise 14 | Slide 53 | `IfYearIsLeap(year)` — Check whether a given year is a leap year[cite: 1]. |
+| `Exercise15.cs` | Exercise 15 | Slide 54 | `ReturnEvenNumbers()` — Return a formatted string of all even numbers greater than 0 and less than 100[cite: 1]. |
+| `Exercise16.cs` | Exercise 16 | Slide 55 | `IfNumberContains3(n)` — Check if a positive integer contains the digit `3` without string conversion[cite: 1]. |
+| `Exercise17.cs` | Exercise 17 | Slide 56 | `DigitsSum(n)` — Compute and return the sum of digits of a non-negative integer[cite: 1]. |
+| `Exercise18.cs` | Exercise 18 | Slide 57 | Extract and display the first and last digit of an input number[cite: 1]. |
+| `Exercise19.cs` | Exercise 19 | Slide 58 | `NumberOfEvenDigits(n)` — Count the number of even digits in a positive integer mathematically[cite: 1]. |
+| `Exercise20.cs` | Exercise 20 | Slide 59 | Calculate the product of all digits of any input number[cite: 1]. |
 
-## Prerequisites
+### 4. Arrays
 
-To compile and run these programs locally, ensure you have one of the following installed:
-* **[Microsoft Visual Studio 2022+](https://visualstudio.microsoft.com/)** (with the *.NET Desktop Development* workload)
-* **[.NET SDK (6.0 / 8.0 / 10.0+)](https://dotnet.microsoft.com/download)**
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Exercise21.cs` | Exercise 21 | Slide 73 | `IfSortedAscending(arr)` — Check if a 3-element integer array is sorted in ascending order[cite: 1]. |
+| `Exercise22.cs` | Exercise 22 | Slide 74 | Count and display the frequency of each unique element in an array[cite: 1]. |
+| `Exercise23.cs` | Exercise 23 | Slide 75 | Find the maximum and minimum elements in an integer array[cite: 1]. |
+| `Exercise24.cs` | Exercise 24 | Slide 76 | Count the total number of even and odd integers in an array using `foreach`[cite: 1]. |
+| `Exercise25.cs` | Exercise 25 | Slide 77 | `secondLargestElement(arr)` — Find and return the second largest element in an integer array[cite: 1]. |
+
+### 5. Strings
+
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Exercise26.cs` | Exercise 26 | Slide 90 | Count the total number of words in a string (checking spaces, newlines `\n`, and tabs `\t`)[cite: 1]. |
+| `Exercise27.cs` | Exercise 27 | Slide 91 | Print the individual characters of a string in reverse order[cite: 1]. |
+| `Exercise28.cs` | Exercise 28 | Slide 92 | Capitalize the first letter of every word in an arbitrary user string[cite: 1]. |
+| `Exercise29.cs` | Exercise 29 | Slide 93 | Check whether an input word or phrase is a palindrome (e.g., `madam`, `nurses run`)[cite: 1]. |
 
 ---
 
-##  Getting Started
+## 📙 Chapter 3: Object-Oriented Programming (Exercises 1–16)
 
-Clone this repository to your local machine using Git:
+### 1. Classes, Objects & Constructors
 
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Ch3_Exercise1.cs` | Exercise 1 | Slide 43 | Create a `House` class (`length`, `width`, `area`, constructor, `ShowData()`) and test it in `TestClass`[cite: 7]. |
+| `Ch3_Exercise2.cs` | Exercise 2 | Slide 44 | Create a `Person` class (`name`, `age`, constructor, `PrintData()`) and instantiate two objects in `TestClass`[cite: 7]. |
+| `Ch3_Exercise3.cs` | Exercise 3 | Slide 45 | `Program3` & `TestProgram3` — `checkIf5()` returns `true` if either integer is 5, or their sum/difference is 5[cite: 7]. |
+| `Ch3_Exercise4.cs` | Exercise 4 | Slide 46 | `Circle` & `TestCircle` — Overloaded constructors, private fields (`radius`, `color`), `getPerimeter()`, and `getArea()`[cite: 7]. |
+| `Ch3_Exercise5.cs` | Exercise 5 | Slide 47 | `Program5` & `TestProgram5` — `checkIfPossible()` checks if two integers can be added to get the third integer[cite: 7]. |
+| `Ch3_Exercise6.cs` | Exercise 6 | Slide 48 | `Program6` & `TestProgram6` — `checkRigtmostDigit()` checks if two or more non-negative integers share the same rightmost digit[cite: 7]. |
+| `Ch3_Exercise7.cs` | Exercise 7 | Slide 49 | `Program7` & `TestProgram7` — Rectangle class using `getLength`, `setLength`, `getWidth`, `setWidth`, and `caculateArea`[cite: 7]. |
+| `Ch3_Exercise8.cs` | Exercise 8 | Slide 50 | `Program8` & `TestProgram8` — `checkNearest()` finds which of two integers is nearest to `100` (returns `0` if equal)[cite: 7]. |
+
+### 2. Encapsulation, Properties & Static Members
+
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Ch3_Exercise9.cs` | Exercise 9 | Slide 62 | `Month` & `TestMonth` — Private month number encapsulated with C# property, returning month name and days (`DisplayDetail()`)[cite: 7]. |
+| `Ch3_Exercise10.cs` | Exercise 10 | Slide 63–64 | `Student` & `StudentTest` — Overloaded constructors, C# properties, `static` object counter, and student info display[cite: 7]. |
+
+### 3. Inheritance & Constructor Chaining
+
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Ch3_Exercise11.cs` | Exercise 11 | Slide 86–87 | `Human` base class inherited by `Student` (`Mark`) and `Worker` (`Wage`, `Hours`, hourly wage calculation)[cite: 7]. |
+| `Ch3_Exercise12.cs` | Exercise 12 | Slide 88 | `Member` base class (`PrintSalary()`) inherited by `Employee` (`specialization`) and `Manager` (`department`)[cite: 7]. |
+
+### 4. Polymorphism & Abstract Classes
+
+| File | Exercise | Slide | Description |
+| :--- | :--- | :--- | :--- |
+| `Ch3_Exercise13.cs` | Exercise 13 | Slide 110 | Abstract class `Shape` (`CalculateSurface()`) implemented by `Rectangle`, `Triangle`, and `Circle`[cite: 7]. |
+| `Ch3_Exercise14.cs` | Exercise 14 | Slide 111 | Abstract class `BankAccount` (`deposit()`, `withdraw()`) inherited and implemented by `SavingsAccount`[cite: 7]. |
+| `Ch3_Exercise15.cs` | Exercise 15 | Slide 112 | Abstract class `Employee` (`calculateSalary()`, `displayInfo()`) extended by `Manager` (bonus) and `Programmer` (overtime)[cite: 7]. |
+| `Ch3_Exercise16.cs` | Exercise 16 | Slide 113 | Abstract class `Marks` (`getPercentage()`) inherited by class `A` (3 subjects) and class `B` (4 subjects)[cite: 7]. |
+
+---
+
+## 🚀 Getting Started & How to Run
+
+### Prerequisites
+* [.NET SDK](https://dotnet.microsoft.com/download) (.NET 6.0 / 8.0 / 10.0)
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)[cite: 2, 4]
+
+### 1. Clone the Repository
 ```bash
-git clone https://github.com/yishakarsenal-rgb/window-programming-course.git
+git clone [https://github.com/yishakarsenal-rgb/window-programming-course.git](https://github.com/yishakarsenal-rgb/window-programming-course.git)
 cd window-programming-course
-```
-
----
-
-## ▶️ How to Run the Exercises
-
-Because each `.cs` file is written as a complete, self-contained program with its own `static void Main(string[] args)` method, you can run them using any of the methods below:
-
-### Option 1: Using Visual Studio
-1. Open **Visual Studio** and create or open a **C# Console App** project.
-2. Copy the contents of any exercise file (e.g., `Exercise15.cs`) into `Program.cs` (or include the specific `.cs` file in your project one at a time).
-3. Press **`Ctrl + F5`** (*Start Without Debugging*) to compile and run.
-
-### Option 2: Using .NET 10+ Single-File Execution (CLI)
-If you have the modern .NET CLI installed, you can run any individual `.cs` file directly from the terminal:
-```bash
-dotnet run Exercise1.cs
-```
-
-### Option 3: Using the C# Compiler (`csc`) in Developer Command Prompt
-Open the **Developer Command Prompt for Visual Studio**, navigate to the repository folder, and compile any file directly:
-```bash
-csc Exercise1.cs
-./Exercise1.exe
-```
-
----
-
-## 👤 Author
-
-**Yishak Mekuannent**
-* **GitHub:** [@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb)
-* **Course:** Windows Programming (Chapter 2 — C# Fundamentals)
-
----
-
-<div align="center">
-  <i>If you found this repository helpful or well-organized, feel free to give it a ⭐!</i>
-</div>
