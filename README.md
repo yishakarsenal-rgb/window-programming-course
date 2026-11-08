@@ -140,7 +140,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 
 ### Prerequisites
 * [.NET SDK](https://dotnet.microsoft.com/download) (.NET 6.0 / 8.0 / 10.0)
-* [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)[cite: 2, 4]
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
 
 ### 1. Clone the Repository
 ```bash
