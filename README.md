@@ -122,7 +122,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
-| `Ch3_Exercise11.cs` | Exercise 11 | Slide 86–87 | `Human` base class inherited by `Student` (`Mark`) and `Worker` (`Wage`, `Hours`, hourly wage calculation)[cite: 7]. |
+| `Ch3_Exercise11.cs` | Exercise 11 | Slide 86–87 | `Human` base class inherited by `Student` (`Mark`) and `Worker` (`Wage`, `Hours`, hourly wage calculation). |
 | `Ch3_Exercise12.cs` | Exercise 12 | Slide 88 | `Member` base class (`PrintSalary()`) inherited by `Employee` (`specialization`) and `Manager` (`department`). |
 
 ### 4. Polymorphism & Abstract Classes
