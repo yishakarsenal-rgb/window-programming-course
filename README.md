@@ -104,7 +104,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 | :--- | :--- | :--- | :--- |
 | `Ch3_Exercise1.cs` | Exercise 1 | Slide 43 | Create a `House` class (`length`, `width`, `area`, constructor, `ShowData()`) and test it in `TestClass`[cite: 7]. |
 | `Ch3_Exercise2.cs` | Exercise 2 | Slide 44 | Create a `Person` class (`name`, `age`, constructor, `PrintData()`) and instantiate two objects in `TestClass`[cite: 7]. |
-| `Ch3_Exercise3.cs` | Exercise 3 | Slide 45 | `Program3` & `TestProgram3` — `checkIf5()` returns `true` if either integer is 5, or their sum/difference is 5[cite: 7]. |
+| `Ch3_Exercise3.cs` | Exercise 3 | Slide 45 | `Program3` & `TestProgram3` — `checkIf5()` returns `true` if either integer is 5, or their sum/difference is 5. |
 | `Ch3_Exercise4.cs` | Exercise 4 | Slide 46 | `Circle` & `TestCircle` — Overloaded constructors, private fields (`radius`, `color`), `getPerimeter()`, and `getArea()`. |
 | `Ch3_Exercise5.cs` | Exercise 5 | Slide 47 | `Program5` & `TestProgram5` — `checkIfPossible()` checks if two integers can be added to get the third integer. |
 | `Ch3_Exercise6.cs` | Exercise 6 | Slide 48 | `Program6` & `TestProgram6` — `checkRigtmostDigit()` checks if two or more non-negative integers share the same rightmost digit. |
