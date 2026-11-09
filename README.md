@@ -102,7 +102,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
-| `Ch3_Exercise1.cs` | Exercise 1 | Slide 43 | Create a `House` class (`length`, `width`, `area`, constructor, `ShowData()`) and test it in `TestClass`[cite: 7]. |
+| `Ch3_Exercise1.cs` | Exercise 1 | Slide 43 | Create a `House` class (`length`, `width`, `area`, constructor, `ShowData()`) and test it in `TestClass`. |
 | `Ch3_Exercise2.cs` | Exercise 2 | Slide 44 | Create a `Person` class (`name`, `age`, constructor, `PrintData()`) and instantiate two objects in `TestClass`. |
 | `Ch3_Exercise3.cs` | Exercise 3 | Slide 45 | `Program3` & `TestProgram3` — `checkIf5()` returns `true` if either integer is 5, or their sum/difference is 5. |
 | `Ch3_Exercise4.cs` | Exercise 4 | Slide 46 | `Circle` & `TestCircle` — Overloaded constructors, private fields (`radius`, `color`), `getPerimeter()`, and `getArea()`. |
