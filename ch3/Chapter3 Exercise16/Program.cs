@@ -1,12 +1,10 @@
 ﻿using System;
-
 namespace Chapter3_Exercise16
 {
     abstract class Marks
     {
         public abstract double getPercentage();
     }
-
     class A : Marks
     {
         private double mark1, mark2, mark3;
@@ -23,7 +21,6 @@ namespace Chapter3_Exercise16
             return (mark1 + mark2 + mark3) / 3.0;
         }
     }
-
     class B : Marks
     {
         private double mark1, mark2, mark3, mark4;
@@ -35,13 +32,11 @@ namespace Chapter3_Exercise16
             mark3 = m3;
             mark4 = m4;
         }
-
         public override double getPercentage()
         {
             return (mark1 + mark2 + mark3 + mark4) / 4.0;
         }
     }
-
     class Program
     {
         static void Main(string[] args)
