@@ -82,7 +82,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 | `Exercise21.cs` | Exercise 21 | Slide 73 | `IfSortedAscending(arr)` — Check if a 3-element integer array is sorted in ascending order[cite: 1]. |
 | `Exercise22.cs` | Exercise 22 | Slide 74 | Count and display the frequency of each unique element in an array[cite: 1]. |
 | `Exercise23.cs` | Exercise 23 | Slide 75 | Find the maximum and minimum elements in an integer array[cite: 1]. |
-| `Exercise24.cs` | Exercise 24 | Slide 76 | Count the total number of even and odd integers in an array using `foreach`[cite: 1]. |
+| `Exercise24.cs` | Exercise 24 | Slide 76 | Count the total number of even and odd integers in an array using `foreach`. |
 | `Exercise25.cs` | Exercise 25 | Slide 77 | `secondLargestElement(arr)` — Find and return the second largest element in an integer array. |
 
 ### 5. Strings
