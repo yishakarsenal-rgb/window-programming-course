@@ -13,7 +13,7 @@
 
 ## Table of Contents
 
-- [📖 Overview](#-overview)
+- [Overview](#-overview)
 - [📘 Chapter 2: C# Fundamentals (Exercises 1–29)](#-chapter-2-c-fundamentals-exercises-129)
   - [1. Syntax, Variables & Operators](#1-syntax-variables--operators)
   - [2. Control Flow & Loops](#2-control-flow--loops)
