@@ -14,7 +14,7 @@
 ## Table of Contents
 
 - [Overview](#-overview)
-- [📘 Chapter 2: C# Fundamentals (Exercises 1–29)](#-chapter-2-c-fundamentals-exercises-129)
+- [Chapter 2: C# Fundamentals (Exercises 1–29)](#-chapter-2-c-fundamentals-exercises-129)
   - [1. Syntax, Variables & Operators](#1-syntax-variables--operators)
   - [2. Control Flow & Loops](#2-control-flow--loops)
   - [3. Methods & Number Manipulation](#3-methods--number-manipulation)
