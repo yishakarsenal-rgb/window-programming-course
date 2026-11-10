@@ -30,7 +30,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository contains **45 standalone C# exercises** covering the core curriculum of **Windows Programming**:
 * **Chapter 2: C# Fundamentals** — **29 exercises** covering variables, data types, operators, conditional statements, loops, methods, arrays, and string processing[cite: 1].
