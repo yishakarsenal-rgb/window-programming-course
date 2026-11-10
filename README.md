@@ -20,7 +20,7 @@
   - [3. Methods & Number Manipulation](#3-methods--number-manipulation)
   - [4. Arrays](#4-arrays)
   - [5. Strings](#5-strings)
-- [📙 Chapter 3: Object-Oriented Programming (Exercises 1–16)](#-chapter-3-object-oriented-programming-exercises-116)
+- [Chapter 3: Object-Oriented Programming (Exercises 1–16)](#-chapter-3-object-oriented-programming-exercises-116)
   - [1. Classes, Objects & Constructors](#1-classes-objects--constructors)
   - [2. Encapsulation, Properties & Static Members](#2-encapsulation-properties--static-members)
   - [3. Inheritance & Constructor Chaining](#3-inheritance--constructor-chaining)
