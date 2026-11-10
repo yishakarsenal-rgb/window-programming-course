@@ -11,7 +11,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [📖 Overview](#-overview)
 - [📘 Chapter 2: C# Fundamentals (Exercises 1–29)](#-chapter-2-c-fundamentals-exercises-129)
