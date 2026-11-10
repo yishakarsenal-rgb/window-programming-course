@@ -26,7 +26,7 @@
   - [3. Inheritance & Constructor Chaining](#3-inheritance--constructor-chaining)
   - [4. Polymorphism & Abstract Classes](#4-polymorphism--abstract-classes)
 - [Getting Started & How to Run](#-getting-started--how-to-run)
-- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
+- [Tech Stack & Tools](#️-tech-stack--tools)
 
 ---
 
