@@ -1,4 +1,4 @@
-# 💻 Windows Programming Course — C# Fundamentals & OOP
+# Windows Programming Course — C# Fundamentals & OOP
 
 [![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Framework](https://img.shields.io/badge/.NET-Console_App-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
