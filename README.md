@@ -96,7 +96,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 
 ---
 
-## 📙 Chapter 3: Object-Oriented Programming (Exercises 1–16)
+## Chapter 3: Object-Oriented Programming (Exercises 1–16)
 
 ### 1. Classes, Objects & Constructors
 
