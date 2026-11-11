@@ -38,7 +38,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 
 ---
 
-## 📘 Chapter 2: C# Fundamentals (Exercises 1–29)
+## Chapter 2: C# Fundamentals (Exercises 1–29)
 
 ### 1. Syntax, Variables & Operators
 
