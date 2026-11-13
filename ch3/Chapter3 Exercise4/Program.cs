@@ -31,11 +31,11 @@ namespace Chapter3_Exercise4
             Circle c1 = new Circle();
             Console.WriteLine("default circle with radius = 1");
             Console.WriteLine("perimeter= {0:F2}", c1.getPerimeter());
-            Console.WriteLine("area=      {0:F2}", c1.getArea());
+            Console.WriteLine("area= {0:F2}", c1.getArea());
             Circle c2 = new Circle(5.0);
             Console.WriteLine("\nsecond circle with radius = 5");
             Console.WriteLine("perimeter= {0:F2}", c2.getPerimeter());
-            Console.WriteLine("area=      {0:F2}", c2.getArea());
+            Console.WriteLine("area= {0:F2}", c2.getArea());
             Console.ReadKey();
         }
     }
