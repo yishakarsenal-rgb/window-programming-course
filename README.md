@@ -1,4 +1,4 @@
-# 💻 Windows Programming Course — C# Fundamentals & OOP
+# Windows Programming Course — C# Fundamentals & OOP
 
 [![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Framework](https://img.shields.io/badge/.NET-Console_App-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
@@ -11,26 +11,26 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [📖 Overview](#-overview)
-- [📘 Chapter 2: C# Fundamentals (Exercises 1–29)](#-chapter-2-c-fundamentals-exercises-129)
+- [Overview](#-overview)
+- [Chapter 2: C# Fundamentals (Exercises 1–29)](#-chapter-2-c-fundamentals-exercises-129)
   - [1. Syntax, Variables & Operators](#1-syntax-variables--operators)
   - [2. Control Flow & Loops](#2-control-flow--loops)
   - [3. Methods & Number Manipulation](#3-methods--number-manipulation)
   - [4. Arrays](#4-arrays)
   - [5. Strings](#5-strings)
-- [📙 Chapter 3: Object-Oriented Programming (Exercises 1–16)](#-chapter-3-object-oriented-programming-exercises-116)
+- [Chapter 3: Object-Oriented Programming (Exercises 1–16)](#-chapter-3-object-oriented-programming-exercises-116)
   - [1. Classes, Objects & Constructors](#1-classes-objects--constructors)
   - [2. Encapsulation, Properties & Static Members](#2-encapsulation-properties--static-members)
   - [3. Inheritance & Constructor Chaining](#3-inheritance--constructor-chaining)
   - [4. Polymorphism & Abstract Classes](#4-polymorphism--abstract-classes)
-- [🚀 Getting Started & How to Run](#-getting-started--how-to-run)
-- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
+- [Getting Started & How to Run](#-getting-started--how-to-run)
+- [Tech Stack & Tools](#️-tech-stack--tools)
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository contains **45 standalone C# exercises** covering the core curriculum of **Windows Programming**:
 * **Chapter 2: C# Fundamentals** — **29 exercises** covering variables, data types, operators, conditional statements, loops, methods, arrays, and string processing[cite: 1].
@@ -38,7 +38,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 
 ---
 
-## 📘 Chapter 2: C# Fundamentals (Exercises 1–29)
+## Chapter 2: C# Fundamentals (Exercises 1–29)
 
 ### 1. Syntax, Variables & Operators
 
@@ -96,7 +96,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 
 ---
 
-## 📙 Chapter 3: Object-Oriented Programming (Exercises 1–16)
+## Chapter 3: Object-Oriented Programming (Exercises 1–16)
 
 ### 1. Classes, Objects & Constructors
 
@@ -136,7 +136,7 @@ This repository contains **45 standalone C# exercises** covering the core curric
 
 ---
 
-## 🚀 Getting Started & How to Run
+## Getting Started & How to Run
 
 ### Prerequisites
 * [.NET SDK](https://dotnet.microsoft.com/download) (.NET 6.0 / 8.0 / 10.0)
