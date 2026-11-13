@@ -26,13 +26,11 @@ namespace Chapter3_Exercise7
             return length * width;
         }
     }
-
     class TestProgram7
     {
         static void Main(string[] args)
         {
             Program7 rect = new Program7();
-
             Console.Write("enter length= ");
             rect.setLength(Convert.ToDouble(Console.ReadLine()));
             Console.Write("enter width= ");
