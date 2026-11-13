@@ -42,12 +42,12 @@ namespace Chapter3_Exercise10
         public string PhoneNumber { get { return phoneNumber; } set { phoneNumber = value; } }
         public void DisplayStudentInfo()
         {
-            Console.WriteLine("Full Name:    {0}", FullName);
-            Console.WriteLine("Course:       {0}", Course);
-            Console.WriteLine("Subject:      {0}", Subject);
-            Console.WriteLine("University:   {0}", University);
-            Console.WriteLine("E-mail:       {0}", Email);
-            Console.WriteLine("Phone Number: {0}", PhoneNumber);
+            Console.WriteLine("full name=    {0}", FullName);
+            Console.WriteLine("course=       {0}", Course);
+            Console.WriteLine("subject=      {0}", Subject);
+            Console.WriteLine("university=   {0}", University);
+            Console.WriteLine("e-mail=       {0}", Email);
+            Console.WriteLine("phone number= {0}", PhoneNumber);
         }
     }
     class StudentTest
@@ -55,10 +55,10 @@ namespace Chapter3_Exercise10
         static void Main(string[] args)
         {
             Student s1 = new Student("yishak mekuannent", "computer science", "windows programming", "unity university", "yishak123@gmail.com", "+251913234334");
-            Student s2 = new Student("Abebe Kebede", "Software Engineering", "Addis Ababa University");
+            Student s2 = new Student("abebe abel", "Software Engineering", "Addis Ababa University");
             s1.DisplayStudentInfo();
             s2.DisplayStudentInfo();
-            Console.WriteLine("Total Student Objects Created: {0}", Student.StudentCount);
+            Console.WriteLine("total student objects created= {0}", Student.StudentCount);
             Console.ReadKey();
         }
     }
