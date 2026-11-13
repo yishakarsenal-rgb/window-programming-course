@@ -21,13 +21,10 @@ namespace Chapter3_Exercise3
         {
             Console.Write("enter first number= ");
             int n1 = Convert.ToInt32(Console.ReadLine());
-
-            Console.Write("Enter second number= ");
+            Console.Write("enter second number= ");
             int n2 = Convert.ToInt32(Console.ReadLine());
-
             Program3 obj = new Program3(n1, n2);
             Console.WriteLine(obj.checkIf5());
-
             Console.ReadKey();
         }
     }
