@@ -17,11 +17,9 @@ namespace Chapter3_Exercise6
             int d1 = number1 % 10;
             int d2 = number2 % 10;
             int d3 = number3 % 10;
-
             return (d1 == d2) || (d1 == d3) || (d2 == d3);
         }
     }
-
     class TestProgram6
     {
         static void Main(string[] args)
