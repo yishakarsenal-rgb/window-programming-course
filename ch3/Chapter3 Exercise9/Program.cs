@@ -4,7 +4,6 @@ namespace Chapter3_Exercise9
     class Month
     {
         private int monthNumber;
-
         public int MonthNumber
         {
             get { return monthNumber; }
