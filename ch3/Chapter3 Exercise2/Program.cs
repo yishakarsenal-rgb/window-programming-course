@@ -10,13 +10,11 @@ namespace Chapter3_Exercise2
             name = n;
             age = a;
         }
-
         public void PrintData()
         {
             Console.WriteLine("name= {0} and age= {1}", name, age);
         }
     }
-
     class TestClass
     {
         static void Main(string[] args)
