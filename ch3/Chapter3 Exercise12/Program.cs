@@ -8,10 +8,9 @@ namespace Chapter3_Exercise12
         public string PhoneNumber;
         public string Address;
         public double Salary;
-
         public void PrintSalary()
         {
-            Console.WriteLine("Salary:         {0:C}", Salary);
+            Console.WriteLine("Salary= {0:C}", Salary);
         }
     }
     class Employee : Member
@@ -20,11 +19,11 @@ namespace Chapter3_Exercise12
 
         public void DisplayEmployee()
         {
-            Console.WriteLine("Employee Details");
-            Console.WriteLine("Name:           {0}", Name);
-            Console.WriteLine("Age:            {0}", Age);
-            Console.WriteLine("Phone Number:   {0}", PhoneNumber);
-            Console.WriteLine("Address:        {0}", Address);
+            Console.WriteLine("employee details");
+            Console.WriteLine("Name: {0}", Name);
+            Console.WriteLine("Age:  {0}", Age);
+            Console.WriteLine("Phone Number: {0}", PhoneNumber);
+            Console.WriteLine("Address: {0}", Address);
             Console.WriteLine("Specialization: {0}", specialization);
             PrintSalary();
         }
@@ -35,12 +34,12 @@ namespace Chapter3_Exercise12
 
         public void DisplayManager()
         {
-            Console.WriteLine("\n--- Manager Details ---");
-            Console.WriteLine("Name:           {0}", Name);
-            Console.WriteLine("Age:            {0}", Age);
-            Console.WriteLine("Phone Number:   {0}", PhoneNumber);
-            Console.WriteLine("Address:        {0}", Address);
-            Console.WriteLine("Department:     {0}", department);
+            Console.WriteLine("\nmanager details");
+            Console.WriteLine("name= {0}", Name);
+            Console.WriteLine("age= {0}", Age);
+            Console.WriteLine("phone number= {0}", PhoneNumber);
+            Console.WriteLine("address= {0}", Address);
+            Console.WriteLine("department= {0}", department);
             PrintSalary();
         }
     }
