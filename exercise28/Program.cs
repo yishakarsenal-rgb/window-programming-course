@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Exercise28Application
 {
     class Program
@@ -20,9 +19,7 @@ namespace Exercise28Application
                     result += firstLetter + restOfWord + " ";
                 }
             }
-
             Console.WriteLine("all first letters uppercase= {0}", result.Trim());
-
             Console.ReadKey();
         }
     }
