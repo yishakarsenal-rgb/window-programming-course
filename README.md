@@ -10,7 +10,7 @@
 ([@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb))  
 > **Repository:** [window-programming-course](https://github.com/yishakarsenal-rgb/window-programming-course)
 
----
+
 
 ## Table of Contents
 
