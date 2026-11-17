@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Framework](https://img.shields.io/badge/.NET-Console_App-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![IDE](https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Author](https://img.shields.io/badge/Author-Yishak_Mekuannent-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yishakarsenal-rgb)
+[![Author](https://img.shields.io/badge/Author-Yishak-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yishakarsenal-rgb)
 
 > **Course:** Windows Programming (COSC-4021)  
 > **Author:**
