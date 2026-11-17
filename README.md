@@ -6,7 +6,8 @@
 [![Author](https://img.shields.io/badge/Author-Yishak_Mekuannent-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yishakarsenal-rgb)
 
 > **Course:** Windows Programming (COSC-4021)  
-> **Author:** Yishak Mekuannent ([@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb))  
+> **Author:**
+([@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb))  
 > **Repository:** [window-programming-course](https://github.com/yishakarsenal-rgb/window-programming-course)
 
 ---
