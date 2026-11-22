@@ -1,10 +1,37 @@
-﻿namespace Chapter4_Exercise4
+﻿using System;
+
+namespace Chapter4_Exercise4
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string[] list = new string[5];
+            list[0] = "Sunday";
+            list[1] = "Monday";
+            list[2] = "Tuesday";
+            list[3] = "Wednesday";
+            list[4] = "Thursday";
+
+            try
+            {
+                // i <= 5 attempts to access list[5], which is out of bounds (indices are 0..4)
+                for (int i = 0; i <= 5; i++)
+                {
+                    Console.WriteLine(list[i].ToString());
+                }
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine("\nException Caught: Array index is out of range!");
+                Console.WriteLine("Details: {0}", ex.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Array traversal finished.");
+            }
+
+            Console.ReadLine();
         }
     }
 }
