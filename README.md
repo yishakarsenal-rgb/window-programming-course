@@ -50,7 +50,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | :--- | :--- | :--- | :--- |
 | `Exercise1.cs` | Exercise 1 | Slide 22 | Identify valid and invalid C# variable identifiers (`Class`, `_2pac`, `greeting`, `numberOfClients` vs. `2pac`, `new`). |
 | `Exercise2.cs` | Exercise 2 | Slide 23 | Declare appropriate variables and data types for a marketing company's employee record. |
-| `Exercise3.cs` | Exercise 3 | Slide 34–35 | Evaluate arithmetic expressions (`10/3`, `5.2/2.0`, `9%3`), operator precedence, and a two-number addition class[cite: 6]. |
+| `Exercise3.cs` | Exercise 3 | Slide 34–35 | Evaluate arithmetic expressions (`10/3`, `5.2/2.0`, `9%3`), operator precedence, and a two-number addition class. |
 
 ### 2. Control Flow & Loops
 
