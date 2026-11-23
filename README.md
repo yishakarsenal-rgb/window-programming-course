@@ -59,7 +59,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | `Exercise4.cs` | Exercise 4 | Slide 40 | Convert a numeric grade into a letter grade (`A`, `B`, `C`, `D`, `F`) using `if-else` ranges. |
 | `Exercise5.cs` | Exercise 5 | Slide 41 | Convert a single digit (`0–9`) into its English word using a `switch` statement. |
 | `Exercise6.cs` | Exercise 6 | Slide 42 | Demonstrate and fix the **Dangling Else** problem using explicit block scoping `{}`. |
-| `Exercise7.cs` | Exercise 7 | Slide 46 | Calculate the sum of numbers from `x` to `y` and print a right-aligned star triangle[cite: 6]. |
+| `Exercise7.cs` | Exercise 7 | Slide 46 | Calculate the sum of numbers from `x` to `y` and print a right-aligned star triangle. |
 | `Exercise8.cs` | Exercise 8 | Slide 47 | Calculate the sum of integers from `1` to `10` and print a left-aligned star triangle[cite: 6]. |
 | `Exercise9.cs` | Exercise 9 | Slide 48 | Analyze faulty/infinite loop conditions and demonstrate corrected loop structures[cite: 6]. |
 | `Exercise10.cs` | Exercise 10 | Slide 49 | Fix the `while (start != num)` infinite loop bug when odd numbers are entered[cite: 6]. |
