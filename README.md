@@ -64,7 +64,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | `Exercise9.cs` | Exercise 9 | Slide 48 | Analyze faulty/infinite loop conditions and demonstrate corrected loop structures. |
 | `Exercise10.cs` | Exercise 10 | Slide 49 | Fix the `while (start != num)` infinite loop bug when odd numbers are entered. |
 | `Exercise11.cs` | Exercise 11 | Slide 50 | Generate a triangular multiplication table (`i * 1` through `i * i`) for `N` lines. |
-| `Exercise12.cs` | Exercise 12 | Slide 51 | Read a positive integer `N (N < 20)` and print a shifted `N x N` number matrix[cite: 6]. |
+| `Exercise12.cs` | Exercise 12 | Slide 51 | Read a positive integer `N (N < 20)` and print a shifted `N x N` number matrix. |
 
 ### 3. Methods & Number Manipulation
 
