@@ -38,7 +38,7 @@
 This repository contains **54 standalone C# exercises** covering the core curriculum of **Windows Programming**:
 * **Chapter 2: C# Fundamentals** — **29 exercises** covering variables, data types, operators, conditional statements, loops, methods, arrays, and string processing.
 * **Chapter 3: Object-Oriented Programming (OOP)** — **16 exercises** covering classes, objects, constructors, destructors, C# properties, indexers, static members, inheritance, polymorphism, and abstract classes.
-* **Chapter 4: C# Exception Handling** — **9 exercises (1 calculator problem + 8 exercises)** covering `try`, `catch`, `finally`, `throw`, exception hierarchy, built-in exceptions (`FormatException`, `DivideByZeroException`, `IndexOutOfRangeException`, `OverflowException`), and custom user-defined exception classes[cite: 5].
+* **Chapter 4: C# Exception Handling** — **9 exercises (1 calculator problem + 8 exercises)** covering `try`, `catch`, `finally`, `throw`, exception hierarchy, built-in exceptions (`FormatException`, `DivideByZeroException`, `IndexOutOfRangeException`, `OverflowException`), and custom user-defined exception classes.
 
 ---
 
