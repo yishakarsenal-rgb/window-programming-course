@@ -94,7 +94,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
 | `Exercise26.cs` | Exercise 26 | Slide 90 | Count the total number of words in a string (checking spaces, newlines `\n`, and tabs `\t`). |
-| `Exercise27.cs` | Exercise 27 | Slide 91 | Print the individual characters of a string in reverse order[cite: 6]. |
+| `Exercise27.cs` | Exercise 27 | Slide 91 | Print the individual characters of a string in reverse order. |
 | `Exercise28.cs` | Exercise 28 | Slide 92 | Capitalize the first letter of every word in an arbitrary user string[cite: 6]. |
 | `Exercise29.cs` | Exercise 29 | Slide 93 | Check whether an input word or phrase is a palindrome (e.g., `madam`, `nurses run`)[cite: 6]. |
 
