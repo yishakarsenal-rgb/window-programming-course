@@ -113,7 +113,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | `Ch3_Exercise5.cs` | Exercise 5 | Slide 47 | `Program5` & `TestProgram5` — `checkIfPossible()` checks if two integers can be added to get the third integer. |
 | `Ch3_Exercise6.cs` | Exercise 6 | Slide 48 | `Program6` & `TestProgram6` — `checkRigtmostDigit()` checks if two or more non-negative integers share the same rightmost digit. |
 | `Ch3_Exercise7.cs` | Exercise 7 | Slide 49 | `Program7` & `TestProgram7` — Rectangle class using `getLength`, `setLength`, `getWidth`, `setWidth`, and `caculateArea`. |
-| `Ch3_Exercise8.cs` | Exercise 8 | Slide 50 | `Program8` & `TestProgram8` — `checkNearest()` finds which of two integers is nearest to `100` (returns `0` if equal)[cite: 6]. |
+| `Ch3_Exercise8.cs` | Exercise 8 | Slide 50 | `Program8` & `TestProgram8` — `checkNearest()` finds which of two integers is nearest to `100` (returns `0` if equal). |
 
 ### 2. Encapsulation, Properties & Static Members
 
