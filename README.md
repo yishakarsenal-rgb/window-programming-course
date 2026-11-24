@@ -87,7 +87,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | `Exercise22.cs` | Exercise 22 | Slide 74 | Count and display the frequency of each unique element in an array. |
 | `Exercise23.cs` | Exercise 23 | Slide 75 | Find the maximum and minimum elements in an integer array. |
 | `Exercise24.cs` | Exercise 24 | Slide 76 | Count the total number of even and odd integers in an array using `foreach`. |
-| `Exercise25.cs` | Exercise 25 | Slide 77 | `secondLargestElement(arr)` — Find and return the second largest element in an integer array[cite: 6]. |
+| `Exercise25.cs` | Exercise 25 | Slide 77 | `secondLargestElement(arr)` — Find and return the second largest element in an integer array. |
 
 ### 5. Strings
 
