@@ -77,7 +77,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | `Exercise17.cs` | Exercise 17 | Slide 56 | `DigitsSum(n)` — Compute and return the sum of digits of a non-negative integer. |
 | `Exercise18.cs` | Exercise 18 | Slide 57 | Extract and display the first and last digit of an input number. |
 | `Exercise19.cs` | Exercise 19 | Slide 58 | `NumberOfEvenDigits(n)` — Count the number of even digits in a positive integer mathematically. |
-| `Exercise20.cs` | Exercise 20 | Slide 59 | Calculate the product of all digits of any input number[cite: 6]. |
+| `Exercise20.cs` | Exercise 20 | Slide 59 | Calculate the product of all digits of any input number. |
 
 ### 4. Arrays
 
