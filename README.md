@@ -72,7 +72,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | :--- | :--- | :--- | :--- |
 | `Exercise13.cs` | Exercise 13 | Slide 52 | `DivisibleBy2Or3(a, b)` — Return `a * b` if both are divisible by 2 or 3; otherwise return `a + b`. |
 | `Exercise14.cs` | Exercise 14 | Slide 53 | `IfYearIsLeap(year)` — Check whether a given year is a leap year. |
-| `Exercise15.cs` | Exercise 15 | Slide 54 | `ReturnEvenNumbers()` — Return a formatted string of all even numbers greater than 0 and less than 100[cite: 6]. |
+| `Exercise15.cs` | Exercise 15 | Slide 54 | `ReturnEvenNumbers()` — Return a formatted string of all even numbers greater than 0 and less than 100. |
 | `Exercise16.cs` | Exercise 16 | Slide 55 | `IfNumberContains3(n)` — Check if a positive integer contains the digit `3` without string conversion[cite: 6]. |
 | `Exercise17.cs` | Exercise 17 | Slide 56 | `DigitsSum(n)` — Compute and return the sum of digits of a non-negative integer[cite: 6]. |
 | `Exercise18.cs` | Exercise 18 | Slide 57 | Extract and display the first and last digit of an input number[cite: 6]. |
