@@ -75,7 +75,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | `Exercise15.cs` | Exercise 15 | Slide 54 | `ReturnEvenNumbers()` — Return a formatted string of all even numbers greater than 0 and less than 100. |
 | `Exercise16.cs` | Exercise 16 | Slide 55 | `IfNumberContains3(n)` — Check if a positive integer contains the digit `3` without string conversion. |
 | `Exercise17.cs` | Exercise 17 | Slide 56 | `DigitsSum(n)` — Compute and return the sum of digits of a non-negative integer. |
-| `Exercise18.cs` | Exercise 18 | Slide 57 | Extract and display the first and last digit of an input number[cite: 6]. |
+| `Exercise18.cs` | Exercise 18 | Slide 57 | Extract and display the first and last digit of an input number. |
 | `Exercise19.cs` | Exercise 19 | Slide 58 | `NumberOfEvenDigits(n)` — Count the number of even digits in a positive integer mathematically[cite: 6]. |
 | `Exercise20.cs` | Exercise 20 | Slide 59 | Calculate the product of all digits of any input number[cite: 6]. |
 
