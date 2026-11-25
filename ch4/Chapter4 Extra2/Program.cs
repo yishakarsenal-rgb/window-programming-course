@@ -1,10 +1,26 @@
-﻿namespace Chapter4_Extra2
+﻿using System;
+
+namespace Chapter4_Extra2_InvalidCast
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            object boxedValue = "Unity University";
+
+            try
+            {
+                // Attempting to unbox a string as a double triggers InvalidCastException
+                double gpa = (double)boxedValue;
+                Console.WriteLine("GPA: " + gpa);
+            }
+            catch (InvalidCastException ex)
+            {
+                Console.WriteLine("InvalidCastException Caught: Incompatible type conversion.");
+                Console.WriteLine("Message: " + ex.Message);
+            }
+
+            Console.ReadKey();
         }
     }
 }
