@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter4_Extra2_InvalidCast
+namespace Chapter4_Extra2
 {
     class Program
     {
