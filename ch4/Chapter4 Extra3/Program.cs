@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter4_Extra3_ArrayTypeMismatch
+namespace Chapter4_Extra3
 {
     class Program
     {
