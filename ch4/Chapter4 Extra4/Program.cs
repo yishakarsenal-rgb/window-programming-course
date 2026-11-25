@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter4_Extra4_ArgumentValidation
+namespace Chapter4_Extra4
 {
     class Program
     {
