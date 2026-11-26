@@ -119,7 +119,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
-| `Ch3_Exercise9.cs` | Exercise 9 | Slide 62 | `Month` & `TestMonth` — Private month number encapsulated with C# property, returning month name and days (`DisplayDetail()`)[cite: 6]. |
+| `Ch3_Exercise9.cs` | Exercise 9 | Slide 62 | `Month` & `TestMonth` — Private month number encapsulated with C# property, returning month name and days (`DisplayDetail()`). |
 | `Ch3_Exercise10.cs` | Exercise 10 | Slide 63–64 | `Student` & `StudentTest` — Overloaded constructors, C# properties, `static` object counter, and student info display[cite: 6]. |
 
 ### 3. Inheritance & Constructor Chaining
