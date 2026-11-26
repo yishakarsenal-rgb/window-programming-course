@@ -158,7 +158,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
-| `Ch4_Exercise7.cs` | Exercise 7 | Slide 31 | Custom `InvalidNumberException` — Compute square root of a positive integer, print `"Invalid Number"` on negative/invalid input, and always print `"Good Bye"`[cite: 5]. |
+| `Ch4_Exercise7.cs` | Exercise 7 | Slide 31 | Custom `InvalidNumberException` — Compute square root of a positive integer, print `"Invalid Number"` on negative/invalid input, and always print `"Good Bye"`. |
 | `Ch4_Exercise8.cs` | Exercise 8 | Slide 32 | `ReadNumber(int start, int end)` with custom `InvalidNumberException` to validate 10 strictly increasing integers ($1 < a_1 < \dots < a_{10} < 100$). |
 
 ---
