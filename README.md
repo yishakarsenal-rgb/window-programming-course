@@ -166,7 +166,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 ## Getting Started & How to Run
 
 ### Prerequisites
-* [.NET SDK](https://dotnet.microsoft.com/download) (.NET 6.0 / 8.0 / 10.0)[cite: 6]
+* [.NET SDK](https://dotnet.microsoft.com/download) (.NET 6.0 / 8.0 / 10.0)
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
 
 ### 1. Clone the Repository
