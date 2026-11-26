@@ -151,7 +151,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | `Ch4_Exercise2.cs` | Exercise 2 | Slide 26 | Analyze `catch (Exception e)` — scope of caught exceptions and pitfalls of swallowing general exceptions[cite: 5]. |
 | `Ch4_Exercise3.cs` | Exercise 3 | Slide 27 | Order of exception handlers — placing derived exception types before base `System.Exception`[cite: 5]. |
 | `Ch4_Exercise4.cs` | Exercise 4 | Slide 28 | Catch and handle `IndexOutOfRangeException` during out-of-bounds array iteration[cite: 5]. |
-| `Ch4_Exercise5.cs` | Exercise 5 | Slide 29 | Catch and handle `OverflowException` when `Convert.ToByte(30 * 60)` exceeds `byte.MaxValue`[cite: 5]. |
+| `Ch4_Exercise5.cs` | Exercise 5 | Slide 29 | Catch and handle `OverflowException` when `Convert.ToByte(30 * 60)` exceeds `byte.MaxValue`. |
 | `Ch4_Exercise6.cs` | Exercise 6 | Slide 30 | Calculate Miles Per Gallon (MPG) while handling `FormatException` on invalid numeric inputs. |
 
 ### 2. User-Defined Exceptions
