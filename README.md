@@ -119,7 +119,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
-| `Ch3_Exercise9.cs` | Exercise 9 | Slide 62 | `Month` & `TestMonth` — Private month number encapsulated with C# property, returning month name and days (`DisplayDetail()`)[cite: 6]. |
+| `Ch3_Exercise9.cs` | Exercise 9 | Slide 62 | `Month` & `TestMonth` — Private month number encapsulated with C# property, returning month name and days (`DisplayDetail()`). |
 | `Ch3_Exercise10.cs` | Exercise 10 | Slide 63–64 | `Student` & `StudentTest` — Overloaded constructors, C# properties, `static` object counter, and student info display[cite: 6]. |
 
 ### 3. Inheritance & Constructor Chaining
@@ -127,7 +127,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
 | `Ch3_Exercise11.cs` | Exercise 11 | Slide 86–87 | `Human` base class inherited by `Student` (`Mark`) and `Worker` (`Wage`, `Hours`, hourly wage calculation)[cite: 6]. |
-| `Ch3_Exercise12.cs` | Exercise 12 | Slide 88 | `Member` base class (`PrintSalary()`) inherited by `Employee` (`specialization`) and `Manager` (`department`)[cite: 6]. |
+| `Ch3_Exercise12.cs` | Exercise 12 | Slide 88 | `Member` base class (`PrintSalary()`) inherited by `Employee` (`specialization`) and `Manager` (`department`). |
 
 ### 4. Polymorphism & Abstract Classes
 
@@ -151,23 +151,23 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | `Ch4_Exercise2.cs` | Exercise 2 | Slide 26 | Analyze `catch (Exception e)` — scope of caught exceptions and pitfalls of swallowing general exceptions[cite: 5]. |
 | `Ch4_Exercise3.cs` | Exercise 3 | Slide 27 | Order of exception handlers — placing derived exception types before base `System.Exception`[cite: 5]. |
 | `Ch4_Exercise4.cs` | Exercise 4 | Slide 28 | Catch and handle `IndexOutOfRangeException` during out-of-bounds array iteration[cite: 5]. |
-| `Ch4_Exercise5.cs` | Exercise 5 | Slide 29 | Catch and handle `OverflowException` when `Convert.ToByte(30 * 60)` exceeds `byte.MaxValue`[cite: 5]. |
-| `Ch4_Exercise6.cs` | Exercise 6 | Slide 30 | Calculate Miles Per Gallon (MPG) while handling `FormatException` on invalid numeric inputs[cite: 5]. |
+| `Ch4_Exercise5.cs` | Exercise 5 | Slide 29 | Catch and handle `OverflowException` when `Convert.ToByte(30 * 60)` exceeds `byte.MaxValue`. |
+| `Ch4_Exercise6.cs` | Exercise 6 | Slide 30 | Calculate Miles Per Gallon (MPG) while handling `FormatException` on invalid numeric inputs. |
 
 ### 2. User-Defined Exceptions
 
 | File | Exercise | Slide | Description |
 | :--- | :--- | :--- | :--- |
-| `Ch4_Exercise7.cs` | Exercise 7 | Slide 31 | Custom `InvalidNumberException` — Compute square root of a positive integer, print `"Invalid Number"` on negative/invalid input, and always print `"Good Bye"`[cite: 5]. |
-| `Ch4_Exercise8.cs` | Exercise 8 | Slide 32 | `ReadNumber(int start, int end)` with custom `InvalidNumberException` to validate 10 strictly increasing integers ($1 < a_1 < \dots < a_{10} < 100$)[cite: 5]. |
+| `Ch4_Exercise7.cs` | Exercise 7 | Slide 31 | Custom `InvalidNumberException` — Compute square root of a positive integer, print `"Invalid Number"` on negative/invalid input, and always print `"Good Bye"`. |
+| `Ch4_Exercise8.cs` | Exercise 8 | Slide 32 | `ReadNumber(int start, int end)` with custom `InvalidNumberException` to validate 10 strictly increasing integers ($1 < a_1 < \dots < a_{10} < 100$). |
 
 ---
 
 ## Getting Started & How to Run
 
 ### Prerequisites
-* [.NET SDK](https://dotnet.microsoft.com/download) (.NET 6.0 / 8.0 / 10.0)[cite: 6]
-* [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)[cite: 6]
+* [.NET SDK](https://dotnet.microsoft.com/download) (.NET 6.0 / 8.0 / 10.0)
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
 
 ### 1. Clone the Repository
 ```bash
