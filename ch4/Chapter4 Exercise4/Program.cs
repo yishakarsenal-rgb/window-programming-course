@@ -15,7 +15,6 @@ namespace Chapter4_Exercise4
 
             try
             {
-                // i <= 5 attempts to access list[5], which is out of bounds (indices are 0..4)
                 for (int i = 0; i <= 5; i++)
                 {
                     Console.WriteLine(list[i].ToString());
@@ -30,7 +29,6 @@ namespace Chapter4_Exercise4
             {
                 Console.WriteLine("Array traversal finished.");
             }
-
             Console.ReadLine();
         }
     }
