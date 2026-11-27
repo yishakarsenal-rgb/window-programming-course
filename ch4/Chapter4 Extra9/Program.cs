@@ -1,18 +1,16 @@
 ﻿using System;
 
-namespace Chapter4_Extra9_NestedTryCatch
+namespace Chapter4_Extra9
 {
     class Program
     {
         static void Main(string[] args)
         {
             int[] grades = { 85, 90, 78 };
-
             try
             {
                 Console.Write("Enter student index (0-2): ");
                 int index = int.Parse(Console.ReadLine());
-
                 try
                 {
                     Console.WriteLine("Grade: " + grades[index]);
@@ -34,7 +32,6 @@ namespace Chapter4_Extra9_NestedTryCatch
             {
                 Console.WriteLine("Outer finally: Program finished.");
             }
-
             Console.ReadKey();
         }
     }
