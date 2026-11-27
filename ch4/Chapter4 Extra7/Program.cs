@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter4_Extra7_Rethrow
+namespace Chapter4_Extra7
 {
     class Program
     {
@@ -17,10 +17,9 @@ namespace Chapter4_Extra7_Rethrow
             catch (InvalidOperationException ex)
             {
                 Console.WriteLine("[Audit Log in WithdrawFunds]: " + ex.Message);
-                throw; // Re-throws the exact exception up the call stack
+                throw; 
             }
         }
-
         static void Main(string[] args)
         {
             try
@@ -31,7 +30,6 @@ namespace Chapter4_Extra7_Rethrow
             {
                 Console.WriteLine("[User Alert in Main]: Transaction failed -> " + ex.Message);
             }
-
             Console.ReadKey();
         }
     }
