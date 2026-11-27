@@ -7,10 +7,8 @@ namespace Chapter4_Extra2
         static void Main(string[] args)
         {
             object boxedValue = "Unity University";
-
             try
             {
-                // Attempting to unbox a string as a double triggers InvalidCastException
                 double gpa = (double)boxedValue;
                 Console.WriteLine("GPA: " + gpa);
             }
@@ -19,7 +17,6 @@ namespace Chapter4_Extra2
                 Console.WriteLine("InvalidCastException Caught: Incompatible type conversion.");
                 Console.WriteLine("Message: " + ex.Message);
             }
-
             Console.ReadKey();
         }
     }
