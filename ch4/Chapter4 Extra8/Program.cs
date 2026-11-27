@@ -7,7 +7,6 @@ namespace Chapter4_Extra8
         public StudentRecordException(string message, Exception innerException)
             : base(message, innerException) { }
     }
-
     class Program
     {
         static void LoadStudentYear(string yearText)
@@ -22,7 +21,6 @@ namespace Chapter4_Extra8
                 throw new StudentRecordException("Failed to load student academic year.", ex);
             }
         }
-
         static void Main(string[] args)
         {
             try
@@ -39,7 +37,6 @@ namespace Chapter4_Extra8
                         ex.InnerException.Message);
                 }
             }
-
             Console.ReadKey();
         }
     }
