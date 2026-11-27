@@ -2,14 +2,12 @@
 
 namespace Chapter4_Exercise7
 {
-    // User-defined exception derived from ApplicationException / Exception (Slides 22-23)
     public class InvalidNumberException : ApplicationException
     {
         public InvalidNumberException() : base("Invalid Number") { }
         public InvalidNumberException(string message) : base(message) { }
         public InvalidNumberException(string message, Exception inner) : base(message, inner) { }
     }
-
     class Program
     {
         static void Main(string[] args)
@@ -18,12 +16,10 @@ namespace Chapter4_Exercise7
             {
                 Console.Write("Enter a positive integer: ");
                 int number = int.Parse(Console.ReadLine());
-
                 if (number < 0)
                 {
                     throw new InvalidNumberException("Invalid Number");
                 }
-
                 double sqrt = Math.Sqrt(number);
                 Console.WriteLine("Square root of {0} is: {1:F2}", number, sqrt);
             }
@@ -41,10 +37,8 @@ namespace Chapter4_Exercise7
             }
             finally
             {
-                // Executes in all cases
                 Console.WriteLine("Good Bye");
             }
-
             Console.ReadKey();
         }
     }
