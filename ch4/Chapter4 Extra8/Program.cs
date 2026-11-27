@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter4_Extra8_InnerException
+namespace Chapter4_Extra8
 {
     public class StudentRecordException : ApplicationException
     {
