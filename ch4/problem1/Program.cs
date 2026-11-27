@@ -10,13 +10,10 @@ namespace problem1
             {
                 Console.Write("Enter the first number: ");
                 double num1 = double.Parse(Console.ReadLine());
-
                 Console.Write("Enter the second number: ");
                 double num2 = double.Parse(Console.ReadLine());
-
                 Console.Write("Choose an operation (+, -, *, /): ");
                 char operation = char.Parse(Console.ReadLine());
-
                 double result = 0;
                 switch (operation)
                 {
@@ -32,19 +29,19 @@ namespace problem1
                     case '/':
                         if (num2 == 0)
                         {
-                            throw new DivideByZeroException("Cannot divide by zero.");
+                            throw new DivideByZeroException("cannot divide by zero");
                         }
                         result = num1 / num2;
                         break;
                     default:
-                        throw new InvalidOperationException("Invalid operation selected.");
+                        throw new InvalidOperationException("invalid operation selected");
                 }
 
-                Console.WriteLine($"Result: {result}");
+                Console.WriteLine($"result= {result}");
             }
             catch (FormatException)
             {
-                Console.WriteLine("Invalid input. Please enter numeric values.");
+                Console.WriteLine("invalid input");
             }
             catch (DivideByZeroException ex)
             {
@@ -62,7 +59,6 @@ namespace problem1
             {
                 Console.WriteLine("Program execution complete.");
             }
-
             Console.ReadKey();
         }
     }

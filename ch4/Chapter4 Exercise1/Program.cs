@@ -6,7 +6,6 @@ namespace Chapter4_Exercise1
     {
         static void Main(string[] args)
         {
-            // Legal: try paired only with finally (no catch block required)
             try
             {
                 Console.WriteLine("Inside try block: Executing task...");
@@ -15,7 +14,6 @@ namespace Chapter4_Exercise1
             {
                 Console.WriteLine("Inside finally block: Cleanup always executes!");
             }
-
             Console.ReadKey();
         }
     }
