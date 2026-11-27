@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter4_Extra5_ExceptionProperties
+namespace Chapter4_Extra5
 {
     class Program
     {
