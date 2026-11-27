@@ -10,15 +10,12 @@ namespace Chapter4_Exercise6
             {
                 Console.Write("Enter miles driven: ");
                 double miles = Convert.ToDouble(Console.ReadLine());
-
                 Console.Write("Enter gallons used: ");
                 double gallons = Convert.ToDouble(Console.ReadLine());
-
                 if (gallons == 0)
                 {
                     throw new DivideByZeroException("Gallons used cannot be zero.");
                 }
-
                 double mpg = miles / gallons;
                 Console.WriteLine("Miles Per Gallon (MPG): {0:F2}", mpg);
             }
@@ -30,7 +27,6 @@ namespace Chapter4_Exercise6
             {
                 Console.WriteLine("Math Error: {0}", ex.Message);
             }
-
             Console.ReadKey();
         }
     }
