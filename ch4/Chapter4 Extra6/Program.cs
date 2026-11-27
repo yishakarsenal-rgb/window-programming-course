@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter4_Extra6_ExceptionFilter
+namespace Chapter4_Extra6
 {
     class Program
     {
