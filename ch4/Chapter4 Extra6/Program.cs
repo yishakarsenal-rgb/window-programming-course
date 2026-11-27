@@ -24,7 +24,6 @@ namespace Chapter4_Extra6_ExceptionFilter
             {
                 Console.WriteLine("Other Error Code: " + ex.Message);
             }
-
             Console.ReadKey();
         }
     }
