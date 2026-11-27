@@ -29,7 +29,6 @@ namespace Chapter4_Extra4
             {
                 Console.WriteLine("Format Error: Please enter an integer.");
             }
-
             Console.ReadKey();
         }
     }
