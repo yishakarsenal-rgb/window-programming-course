@@ -7,10 +7,8 @@ namespace Chapter4_Extra1
         static void Main(string[] args)
         {
             string studentName = null;
-
             try
             {
-                // Attempting to call ToUpper() on a null reference throws NullReferenceException
                 Console.WriteLine(studentName.ToUpper());
             }
             catch (NullReferenceException ex)
@@ -22,7 +20,6 @@ namespace Chapter4_Extra1
             {
                 Console.WriteLine("NullReferenceException check complete.");
             }
-
             Console.ReadKey();
         }
     }
