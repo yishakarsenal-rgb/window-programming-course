@@ -1,10 +1,32 @@
-﻿namespace Chapter4_Extra5
+﻿using System;
+
+namespace Chapter4_Extra5_ExceptionProperties
 {
-    internal class Program
+    class Program
     {
+        static void TriggerDivision()
+        {
+            int a = 50;
+            int b = 0;
+            int result = a / b;
+        }
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            try
+            {
+                TriggerDivision();
+            }
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("=== Exception Diagnostic Properties ===");
+                Console.WriteLine("Message:    " + ex.Message);
+                Console.WriteLine("Source:     " + ex.Source);
+                Console.WriteLine("TargetSite: " + ex.TargetSite);
+                Console.WriteLine("StackTrace:\n" + ex.StackTrace);
+            }
+
+            Console.ReadKey();
         }
     }
 }
