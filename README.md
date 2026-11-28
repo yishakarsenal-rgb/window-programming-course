@@ -148,7 +148,7 @@ This repository contains **54 standalone C# exercises** covering the core curric
 | :--- | :--- | :--- | :--- |
 | `Ch4_Problem_Calculator.cs` | Slide Problem | Slide 17–19 | `SimpleCalculator` — Accepts two numbers and an operator (`+`, `-`, `*`, `/`), handling `FormatException`, `DivideByZeroException`, and `InvalidOperationException`[cite: 5]. |
 | `Ch4_Exercise1.cs` | Exercise 1 | Slide 25 | Verify legality of `try { ... } finally { ... }` without a `catch` block[cite: 5]. |
-| `Ch4_Exercise2.cs` | Exercise 2 | Slide 26 | Analyze `catch (Exception e)` — scope of caught exceptions and pitfalls of swallowing general exceptions[cite: 5]. |
+| `Ch4_Exercise2.cs` | Exercise 2 | Slide 26 | Analyze `catch (Exception e)` — scope of caught exceptions and pitfalls of swallowing general exceptions. |
 | `Ch4_Exercise3.cs` | Exercise 3 | Slide 27 | Order of exception handlers — placing derived exception types before base `System.Exception`. |
 | `Ch4_Exercise4.cs` | Exercise 4 | Slide 28 | Catch and handle `IndexOutOfRangeException` during out-of-bounds array iteration. |
 | `Ch4_Exercise5.cs` | Exercise 5 | Slide 29 | Catch and handle `OverflowException` when `Convert.ToByte(30 * 60)` exceeds `byte.MaxValue`. |
